@@ -5,7 +5,7 @@ Run this file to execute the full backend analysis pipeline
 and generate all JSON output files consumed by the dashboard.
 
 Usage:
-    python main.py
+    python "SauravSarwan_DMartPricing&Assortment.py"
 
 After execution, open frontend/dashboard.html in any browser.
 """
