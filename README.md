@@ -52,6 +52,17 @@ KPI cards · 5 Key Findings · Category bar chart · Discount distribution dough
 
 ---
 
+## Dataset
+
+| Field | Detail |
+|-------|--------|
+| **Source** | [DMart Products — Kaggle](https://www.kaggle.com/datasets/chinmayshanbhag/dmart-products?select=DMart.csv) |
+| **File** | `DMart.csv` |
+| **Records** | 5,189 raw → 5,187 after cleaning |
+| **Columns** | Name, Brand, Price, DiscountedPrice, Category, SubCategory, Quantity, Description, BreadCrumbs |
+
+---
+
 ## Project Structure
 
 ```
