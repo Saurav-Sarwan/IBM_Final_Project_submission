@@ -10,7 +10,7 @@
       "DiscountPct": 98.0
     },
     {
-      "Name": "Naagin Indian Hot Sauce - Smoky Bhoot",
+      "Name": "Naagin Indian Hot Sauce - Kantha Bomb",
       "Brand": "Naagin",
       "Category": "Packaged Food",
       "SubCategory": "Gourmet Food",
@@ -19,7 +19,7 @@
       "DiscountPct": 98.0
     },
     {
-      "Name": "Naagin Indian Hot Sauce - Kantha Bomb",
+      "Name": "Naagin Indian Hot Sauce - Smoky Bhoot",
       "Brand": "Naagin",
       "Category": "Packaged Food",
       "SubCategory": "Gourmet Food",
@@ -118,15 +118,6 @@
       "DiscountPct": 72.25
     },
     {
-      "Name": "Zebronics TU240C Type C Charging Cable",
-      "Brand": "Zebronics",
-      "Category": "Zebronics",
-      "SubCategory": "Zebronics",
-      "Price": 349.0,
-      "DiscountedPrice": 99.0,
-      "DiscountPct": 71.63
-    },
-    {
       "Name": "Portronics Konnect A Charging Cable",
       "Brand": "Portronics",
       "Category": "Home & Kitchen",
@@ -136,22 +127,13 @@
       "DiscountPct": 71.63
     },
     {
-      "Name": "Feather Soft Red Ankle Length Legging - 1 Unit",
-      "Brand": "Feather Soft",
-      "Category": "Clothing & Accessories",
-      "SubCategory": "Women's",
-      "Price": 499.0,
-      "DiscountedPrice": 149.0,
-      "DiscountPct": 70.14
-    },
-    {
-      "Name": "Feather Soft Red Ankle Length Legging - 1 Unit",
-      "Brand": "Feather Soft",
-      "Category": "Clothing & Accessories",
-      "SubCategory": "Women's",
-      "Price": 499.0,
-      "DiscountedPrice": 149.0,
-      "DiscountPct": 70.14
+      "Name": "Zebronics TU240C Type C Charging Cable",
+      "Brand": "Zebronics",
+      "Category": "Zebronics",
+      "SubCategory": "Zebronics",
+      "Price": 349.0,
+      "DiscountedPrice": 99.0,
+      "DiscountPct": 71.63
     },
     {
       "Name": "Feather Soft Navy Blue Ankle Length Legging - 1 Unit",
@@ -163,7 +145,7 @@
       "DiscountPct": 70.14
     },
     {
-      "Name": "Feather Soft Navy Blue Ankle Length Legging - 1 Unit",
+      "Name": "Feather Soft Red Ankle Length Legging - 1 Unit",
       "Brand": "Feather Soft",
       "Category": "Clothing & Accessories",
       "SubCategory": "Women's",
@@ -172,7 +154,7 @@
       "DiscountPct": 70.14
     },
     {
-      "Name": "Feather Soft Skin Color Ankle Length Legging - 1 Unit",
+      "Name": "Feather Soft Red Ankle Length Legging - 1 Unit",
       "Brand": "Feather Soft",
       "Category": "Clothing & Accessories",
       "SubCategory": "Women's",
@@ -218,6 +200,24 @@
     },
     {
       "Name": "Feather Soft Skin Color Ankle Length Legging - 1 Unit",
+      "Brand": "Feather Soft",
+      "Category": "Clothing & Accessories",
+      "SubCategory": "Women's",
+      "Price": 499.0,
+      "DiscountedPrice": 149.0,
+      "DiscountPct": 70.14
+    },
+    {
+      "Name": "Feather Soft Skin Color Ankle Length Legging - 1 Unit",
+      "Brand": "Feather Soft",
+      "Category": "Clothing & Accessories",
+      "SubCategory": "Women's",
+      "Price": 499.0,
+      "DiscountedPrice": 149.0,
+      "DiscountPct": 70.14
+    },
+    {
+      "Name": "Feather Soft Navy Blue Ankle Length Legging - 1 Unit",
       "Brand": "Feather Soft",
       "Category": "Clothing & Accessories",
       "SubCategory": "Women's",
@@ -554,7 +554,7 @@
       "DiscountPct": 68.03
     },
     {
-      "Name": "Boat Bass 910 Wired Headphone",
+      "Name": "Boat Bass 900 Wired Headphone - White",
       "Brand": "Boat",
       "Category": "Specials",
       "Price": 2490.0,
@@ -562,7 +562,7 @@
       "DiscountPct": 67.91
     },
     {
-      "Name": "Boat Bass 900 Wired Headphone - White",
+      "Name": "Boat Bass 910 Wired Headphone",
       "Brand": "Boat",
       "Category": "Specials",
       "Price": 2490.0,
@@ -578,31 +578,7 @@
       "DiscountPct": 66.87
     },
     {
-      "Name": "Raymond Hazel Double Bedsheet - 009892",
-      "Brand": "Raymond",
-      "Category": "Home & Kitchen",
-      "Price": 2099.0,
-      "DiscountedPrice": 699.0,
-      "DiscountPct": 66.7
-    },
-    {
-      "Name": "Raymond Hazel Double Bedsheet - 009912",
-      "Brand": "Raymond",
-      "Category": "Home & Kitchen",
-      "Price": 2099.0,
-      "DiscountedPrice": 699.0,
-      "DiscountPct": 66.7
-    },
-    {
       "Name": "Raymond Hazel Double Bedsheet - 009902",
-      "Brand": "Raymond",
-      "Category": "Home & Kitchen",
-      "Price": 2099.0,
-      "DiscountedPrice": 699.0,
-      "DiscountPct": 66.7
-    },
-    {
-      "Name": "Raymond Hazel Double Bedsheet - 009890",
       "Brand": "Raymond",
       "Category": "Home & Kitchen",
       "Price": 2099.0,
@@ -626,7 +602,7 @@
       "DiscountPct": 66.7
     },
     {
-      "Name": "Raymond Hazel Double Bedsheet - 009893",
+      "Name": "Raymond Hazel Double Bedsheet - 009912",
       "Brand": "Raymond",
       "Category": "Home & Kitchen",
       "Price": 2099.0,
@@ -635,6 +611,30 @@
     },
     {
       "Name": "Raymond Hazel Double Bedsheet - 009896",
+      "Brand": "Raymond",
+      "Category": "Home & Kitchen",
+      "Price": 2099.0,
+      "DiscountedPrice": 699.0,
+      "DiscountPct": 66.7
+    },
+    {
+      "Name": "Raymond Hazel Double Bedsheet - 009893",
+      "Brand": "Raymond",
+      "Category": "Home & Kitchen",
+      "Price": 2099.0,
+      "DiscountedPrice": 699.0,
+      "DiscountPct": 66.7
+    },
+    {
+      "Name": "Raymond Hazel Double Bedsheet - 009892",
+      "Brand": "Raymond",
+      "Category": "Home & Kitchen",
+      "Price": 2099.0,
+      "DiscountedPrice": 699.0,
+      "DiscountPct": 66.7
+    },
+    {
+      "Name": "Raymond Hazel Double Bedsheet - 009890",
       "Brand": "Raymond",
       "Category": "Home & Kitchen",
       "Price": 2099.0,
@@ -666,7 +666,7 @@
       "DiscountPct": 64.94
     },
     {
-      "Name": "Aristocrat Gulf Backpack - Grey",
+      "Name": "Aristocrat Gulf Backpack - Green",
       "Brand": "VIP",
       "Category": "Backpacks",
       "Price": 2900.0,
@@ -674,7 +674,7 @@
       "DiscountPct": 63.14
     },
     {
-      "Name": "Aristocrat Gulf Backpack - Green",
+      "Name": "Aristocrat Gulf Backpack - Grey",
       "Brand": "VIP",
       "Category": "Backpacks",
       "Price": 2900.0,
@@ -834,17 +834,17 @@
       "DiscountPct": 52.4
     },
     {
-      "Name": "Wildcraft Power Laptop Backpack - Black",
-      "Brand": "Wildcraft",
-      "Category": "School Supplies",
+      "Name": "Portronics Sounddrum-1 Bluetooth Speaker",
+      "Brand": "Portronics",
+      "Category": "Specials",
       "Price": 2499.0,
       "DiscountedPrice": 1199.0,
       "DiscountPct": 52.02
     },
     {
-      "Name": "Portronics Sounddrum-1 Bluetooth Speaker",
-      "Brand": "Portronics",
-      "Category": "Specials",
+      "Name": "Wildcraft Power Laptop Backpack - Black",
+      "Brand": "Wildcraft",
+      "Category": "School Supplies",
       "Price": 2499.0,
       "DiscountedPrice": 1199.0,
       "DiscountPct": 52.02

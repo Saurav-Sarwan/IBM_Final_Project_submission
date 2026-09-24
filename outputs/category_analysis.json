@@ -187,17 +187,6 @@
     "high_discount_pct": 100.0
   },
   {
-    "Category": "Motorbike Helmets",
-    "product_count": 4,
-    "brand_count": 2,
-    "avg_mrp": 1110.75,
-    "avg_discounted": 938.25,
-    "avg_discount_pct": 15.38,
-    "max_discount_pct": 20.0,
-    "high_discount_count": 0,
-    "high_discount_pct": 0.0
-  },
-  {
     "Category": "Baby & Kids",
     "product_count": 4,
     "brand_count": 2,
@@ -205,6 +194,17 @@
     "avg_discounted": 223.75,
     "avg_discount_pct": 2.86,
     "max_discount_pct": 11.43,
+    "high_discount_count": 0,
+    "high_discount_pct": 0.0
+  },
+  {
+    "Category": "Motorbike Helmets",
+    "product_count": 4,
+    "brand_count": 2,
+    "avg_mrp": 1110.75,
+    "avg_discounted": 938.25,
+    "avg_discount_pct": 15.38,
+    "max_discount_pct": 20.0,
     "high_discount_count": 0,
     "high_discount_pct": 0.0
   },
@@ -220,17 +220,6 @@
     "high_discount_pct": 0.0
   },
   {
-    "Category": "Unknown",
-    "product_count": 3,
-    "brand_count": 3,
-    "avg_mrp": 2665.0,
-    "avg_discounted": 1285.67,
-    "avg_discount_pct": 50.01,
-    "max_discount_pct": 53.06,
-    "high_discount_count": 3,
-    "high_discount_pct": 100.0
-  },
-  {
     "Category": "Geep",
     "product_count": 3,
     "brand_count": 1,
@@ -238,6 +227,17 @@
     "avg_discounted": 109.0,
     "avg_discount_pct": 61.87,
     "max_discount_pct": 83.61,
+    "high_discount_count": 3,
+    "high_discount_pct": 100.0
+  },
+  {
+    "Category": "Unknown",
+    "product_count": 3,
+    "brand_count": 3,
+    "avg_mrp": 2665.0,
+    "avg_discounted": 1285.67,
+    "avg_discount_pct": 50.01,
+    "max_discount_pct": 53.06,
     "high_discount_count": 3,
     "high_discount_pct": 100.0
   },
@@ -286,17 +286,6 @@
     "high_discount_pct": 100.0
   },
   {
-    "Category": "Syska",
-    "product_count": 1,
-    "brand_count": 1,
-    "avg_mrp": 799.0,
-    "avg_discounted": 449.0,
-    "avg_discount_pct": 43.8,
-    "max_discount_pct": 43.8,
-    "high_discount_count": 1,
-    "high_discount_pct": 100.0
-  },
-  {
     "Category": "Smartwatches",
     "product_count": 1,
     "brand_count": 1,
@@ -304,6 +293,17 @@
     "avg_discounted": 2499.0,
     "avg_discount_pct": 58.34,
     "max_discount_pct": 58.34,
+    "high_discount_count": 1,
+    "high_discount_pct": 100.0
+  },
+  {
+    "Category": "Syska",
+    "product_count": 1,
+    "brand_count": 1,
+    "avg_mrp": 799.0,
+    "avg_discounted": 449.0,
+    "avg_discount_pct": 43.8,
+    "max_discount_pct": 43.8,
     "high_discount_count": 1,
     "high_discount_pct": 100.0
   },

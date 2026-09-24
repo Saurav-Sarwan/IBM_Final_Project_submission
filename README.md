@@ -6,6 +6,29 @@ A focused data analysis pipeline and interactive 3-tab decision dashboard built 
 
 ---
 
+## Problem Statement
+
+DMart offers a wide range of products across grocery, packaged food, personal care, home & kitchen, beverages, and other categories. Managing such a large product assortment requires effective pricing and assortment decisions to maintain customer value while avoiding excessive discounting and identifying gaps in product and brand coverage.
+
+This project analyses DMart's product catalogue data to understand product assortment, pricing patterns, discount strategies, category and subcategory distribution, and brand-level performance. The analysis aims to identify key pricing and assortment drivers, potential pricing anomalies, areas of excessive discount exposure, assortment gaps, and business opportunities.
+
+An interactive decision dashboard has been developed to provide management-level insights through KPIs, category and brand trends, key drivers, risks, opportunities, and recommended actions.
+
+---
+
+## Business Objectives
+
+The primary objective is to transform DMart's product catalogue data into actionable pricing and assortment insights by:
+
+1. **Understand the overall product and brand assortment** — analyse SKU composition, category spread, and brand coverage across the full catalogue.
+2. **Evaluate price and discount patterns** — measure MRP distribution, average discount depth, and high-discount exposure across categories, subcategories, and brands.
+3. **Identify factors associated with higher discounting** — detect subcategories and brands that are structurally over-reliant on promotions.
+4. **Detect pricing, data-quality, and assortment-related risks** — flag extreme discounts, unbranded products, and single-brand subcategories.
+5. **Identify opportunities for assortment expansion and pricing review** — surface premium segment gaps, under-promoted categories, and brand coverage gaps.
+6. **Provide management-oriented recommendations** — deliver 5 prioritised, data-backed actions through an interactive 3-tab HTML decision dashboard.
+
+---
+
 ## Dashboard Preview
 
 ### Page 1 — Executive Summary

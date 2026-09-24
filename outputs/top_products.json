@@ -1,14 +1,6 @@
 {
   "top_discounted": [
     {
-      "Name": "Naagin Indian Hot Sauce - Smoky Bhoot",
-      "Brand": "Naagin",
-      "Category": "Packaged Food",
-      "Price": 50.0,
-      "DiscountedPrice": 1.0,
-      "DiscountPct": 98.0
-    },
-    {
       "Name": "Naagin Indian Hot Sauce - Original",
       "Brand": "Naagin",
       "Category": "Packaged Food",
@@ -18,6 +10,14 @@
     },
     {
       "Name": "Naagin Indian Hot Sauce - Kantha Bomb",
+      "Brand": "Naagin",
+      "Category": "Packaged Food",
+      "Price": 50.0,
+      "DiscountedPrice": 1.0,
+      "DiscountPct": 98.0
+    },
+    {
+      "Name": "Naagin Indian Hot Sauce - Smoky Bhoot",
       "Brand": "Naagin",
       "Category": "Packaged Food",
       "Price": 50.0,
@@ -105,14 +105,6 @@
       "DiscountPct": 72.25
     },
     {
-      "Name": "Portronics Konnect A Charging Cable",
-      "Brand": "Portronics",
-      "Category": "Home & Kitchen",
-      "Price": 349.0,
-      "DiscountedPrice": 99.0,
-      "DiscountPct": 71.63
-    },
-    {
       "Name": "Zebronics TU240C Type C Charging Cable",
       "Brand": "Zebronics",
       "Category": "Zebronics",
@@ -121,23 +113,31 @@
       "DiscountPct": 71.63
     },
     {
-      "Name": "Feather Soft Skin Color Ankle Length Legging - 1 Unit",
-      "Brand": "Feather Soft",
-      "Category": "Clothing & Accessories",
-      "Price": 499.0,
-      "DiscountedPrice": 149.0,
-      "DiscountPct": 70.14
-    },
-    {
-      "Name": "Feather Soft Skin Color Ankle Length Legging - 1 Unit",
-      "Brand": "Feather Soft",
-      "Category": "Clothing & Accessories",
-      "Price": 499.0,
-      "DiscountedPrice": 149.0,
-      "DiscountPct": 70.14
+      "Name": "Portronics Konnect A Charging Cable",
+      "Brand": "Portronics",
+      "Category": "Home & Kitchen",
+      "Price": 349.0,
+      "DiscountedPrice": 99.0,
+      "DiscountPct": 71.63
     },
     {
       "Name": "Feather Soft Red Ankle Length Legging - 1 Unit",
+      "Brand": "Feather Soft",
+      "Category": "Clothing & Accessories",
+      "Price": 499.0,
+      "DiscountedPrice": 149.0,
+      "DiscountPct": 70.14
+    },
+    {
+      "Name": "Feather Soft Skin Color Ankle Length Legging - 1 Unit",
+      "Brand": "Feather Soft",
+      "Category": "Clothing & Accessories",
+      "Price": 499.0,
+      "DiscountedPrice": 149.0,
+      "DiscountPct": 70.14
+    },
+    {
+      "Name": "Feather Soft Skin Color Ankle Length Legging - 1 Unit",
       "Brand": "Feather Soft",
       "Category": "Clothing & Accessories",
       "Price": 499.0,

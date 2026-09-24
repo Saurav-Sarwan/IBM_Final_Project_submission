@@ -82,15 +82,6 @@
       "high_discount_count": 9
     },
     {
-      "Brand": "Gala",
-      "product_count": 39,
-      "category_count": 1,
-      "avg_mrp": 302.13,
-      "avg_discount_pct": 16.67,
-      "max_discount_pct": 50.0,
-      "high_discount_count": 2
-    },
-    {
       "Brand": "Nivea",
       "product_count": 39,
       "category_count": 1,
@@ -98,6 +89,15 @@
       "avg_discount_pct": 30.5,
       "max_discount_pct": 50.22,
       "high_discount_count": 5
+    },
+    {
+      "Brand": "Gala",
+      "product_count": 39,
+      "category_count": 1,
+      "avg_mrp": 302.13,
+      "avg_discount_pct": 16.67,
+      "max_discount_pct": 50.0,
+      "high_discount_count": 2
     },
     {
       "Brand": "Maybelline",
@@ -109,15 +109,6 @@
       "high_discount_count": 0
     },
     {
-      "Brand": "Godrej",
-      "product_count": 35,
-      "category_count": 4,
-      "avg_mrp": 488.26,
-      "avg_discount_pct": 24.57,
-      "max_discount_pct": 50.4,
-      "high_discount_count": 9
-    },
-    {
       "Brand": "Colgate",
       "product_count": 35,
       "category_count": 1,
@@ -125,6 +116,15 @@
       "avg_discount_pct": 21.35,
       "max_discount_pct": 50.0,
       "high_discount_count": 2
+    },
+    {
+      "Brand": "Godrej",
+      "product_count": 35,
+      "category_count": 4,
+      "avg_mrp": 488.26,
+      "avg_discount_pct": 24.57,
+      "max_discount_pct": 50.4,
+      "high_discount_count": 9
     },
     {
       "Brand": "Zeel",
@@ -208,6 +208,15 @@
       "high_discount_count": 2
     },
     {
+      "Brand": "Veeba",
+      "product_count": 24,
+      "category_count": 1,
+      "avg_mrp": 151.0,
+      "avg_discount_pct": 21.17,
+      "max_discount_pct": 37.74,
+      "high_discount_count": 0
+    },
+    {
       "Brand": "Philips",
       "product_count": 24,
       "category_count": 4,
@@ -217,13 +226,13 @@
       "high_discount_count": 9
     },
     {
-      "Brand": "Veeba",
-      "product_count": 24,
+      "Brand": "Scotch-Brite",
+      "product_count": 23,
       "category_count": 1,
-      "avg_mrp": 151.0,
-      "avg_discount_pct": 21.17,
-      "max_discount_pct": 37.74,
-      "high_discount_count": 0
+      "avg_mrp": 261.61,
+      "avg_discount_pct": 16.02,
+      "max_discount_pct": 48.57,
+      "high_discount_count": 1
     },
     {
       "Brand": "Feather Soft",
@@ -244,15 +253,6 @@
       "high_discount_count": 4
     },
     {
-      "Brand": "Scotch-Brite",
-      "product_count": 23,
-      "category_count": 1,
-      "avg_mrp": 261.61,
-      "avg_discount_pct": 16.02,
-      "max_discount_pct": 48.57,
-      "high_discount_count": 1
-    },
-    {
       "Brand": "No Fuss",
       "product_count": 22,
       "category_count": 1,
@@ -262,13 +262,13 @@
       "high_discount_count": 2
     },
     {
-      "Brand": "Fortune",
+      "Brand": "Dabur",
       "product_count": 21,
-      "category_count": 1,
-      "avg_mrp": 928.71,
-      "avg_discount_pct": 17.34,
-      "max_discount_pct": 50.0,
-      "high_discount_count": 1
+      "category_count": 2,
+      "avg_mrp": 216.62,
+      "avg_discount_pct": 18.5,
+      "max_discount_pct": 50.19,
+      "high_discount_count": 2
     }
   ],
   "top_by_discount": [
