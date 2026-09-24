@@ -1,0 +1,839 @@
+[
+  {
+    "Category": "Packaged Food",
+    "SubCategory": "Snacks & Farsans",
+    "product_count": 302,
+    "brand_count": 60,
+    "avg_mrp": 104.34,
+    "avg_discount_pct": 30.89,
+    "max_discount_pct": 57.5
+  },
+  {
+    "Category": "Dairy & Beverages",
+    "SubCategory": "Beverages",
+    "product_count": 282,
+    "brand_count": 87,
+    "avg_mrp": 256.92,
+    "avg_discount_pct": 24.28,
+    "max_discount_pct": 58.53
+  },
+  {
+    "Category": "Grocery",
+    "SubCategory": "Masala & Spices",
+    "product_count": 204,
+    "brand_count": 42,
+    "avg_mrp": 98.64,
+    "avg_discount_pct": 24.36,
+    "max_discount_pct": 59.8
+  },
+  {
+    "Category": "Personal Care",
+    "SubCategory": "Skin Care",
+    "product_count": 203,
+    "brand_count": 54,
+    "avg_mrp": 243.09,
+    "avg_discount_pct": 24.48,
+    "max_discount_pct": 57.71
+  },
+  {
+    "Category": "Personal Care",
+    "SubCategory": "Hair Care",
+    "product_count": 160,
+    "brand_count": 38,
+    "avg_mrp": 407.14,
+    "avg_discount_pct": 24.43,
+    "max_discount_pct": 50.22
+  },
+  {
+    "Category": "Specials",
+    "SubCategory": "Specials",
+    "product_count": 157,
+    "brand_count": 36,
+    "avg_mrp": 789.96,
+    "avg_discount_pct": 33.96,
+    "max_discount_pct": 85.88
+  },
+  {
+    "Category": "Home & Kitchen",
+    "SubCategory": "Bed & Bath",
+    "product_count": 150,
+    "brand_count": 17,
+    "avg_mrp": 591.46,
+    "avg_discount_pct": 32.58,
+    "max_discount_pct": 67.33
+  },
+  {
+    "Category": "Dairy & Beverages",
+    "SubCategory": "Dairy",
+    "product_count": 147,
+    "brand_count": 22,
+    "avg_mrp": 163.78,
+    "avg_discount_pct": 15.89,
+    "max_discount_pct": 50.26
+  },
+  {
+    "Category": "Packaged Food",
+    "SubCategory": "Packaged Food",
+    "product_count": 135,
+    "brand_count": 36,
+    "avg_mrp": 155.09,
+    "avg_discount_pct": 24.84,
+    "max_discount_pct": 50.48
+  },
+  {
+    "Category": "Personal Care",
+    "SubCategory": "Health & Wellness",
+    "product_count": 129,
+    "brand_count": 46,
+    "avg_mrp": 163.86,
+    "avg_discount_pct": 18.07,
+    "max_discount_pct": 50.91
+  },
+  {
+    "Category": "Personal Care",
+    "SubCategory": "Personal Care/Lip Care",
+    "product_count": 128,
+    "brand_count": 6,
+    "avg_mrp": 307.29,
+    "avg_discount_pct": 31.48,
+    "max_discount_pct": 52.92
+  },
+  {
+    "Category": "Home & Kitchen",
+    "SubCategory": "Cookware & Serveware",
+    "product_count": 121,
+    "brand_count": 31,
+    "avg_mrp": 938.65,
+    "avg_discount_pct": 36.1,
+    "max_discount_pct": 67.93
+  },
+  {
+    "Category": "Packaged Food",
+    "SubCategory": "Biscuits & Cookies",
+    "product_count": 119,
+    "brand_count": 29,
+    "avg_mrp": 103.1,
+    "avg_discount_pct": 29.52,
+    "max_discount_pct": 60.0
+  },
+  {
+    "Category": "Personal Care",
+    "SubCategory": "Personal Care/Face Care",
+    "product_count": 115,
+    "brand_count": 17,
+    "avg_mrp": 339.05,
+    "avg_discount_pct": 28.5,
+    "max_discount_pct": 50.3
+  },
+  {
+    "Category": "Grocery",
+    "SubCategory": "Cooking Oil",
+    "product_count": 106,
+    "brand_count": 32,
+    "avg_mrp": 1146.05,
+    "avg_discount_pct": 19.94,
+    "max_discount_pct": 65.02
+  },
+  {
+    "Category": "Grocery",
+    "SubCategory": "Grocery/Masala & Spices",
+    "product_count": 93,
+    "brand_count": 1,
+    "avg_mrp": 88.67,
+    "avg_discount_pct": 22.32,
+    "max_discount_pct": 43.43
+  },
+  {
+    "Category": "Home & Kitchen",
+    "SubCategory": "Detergent & Fabric Care",
+    "product_count": 90,
+    "brand_count": 23,
+    "avg_mrp": 365.91,
+    "avg_discount_pct": 16.65,
+    "max_discount_pct": 50.1
+  },
+  {
+    "Category": "Packaged Food",
+    "SubCategory": "Sweets",
+    "product_count": 88,
+    "brand_count": 36,
+    "avg_mrp": 132.24,
+    "avg_discount_pct": 31.29,
+    "max_discount_pct": 58.75
+  },
+  {
+    "Category": "Home & Kitchen",
+    "SubCategory": "Freshener & Repellents",
+    "product_count": 84,
+    "brand_count": 24,
+    "avg_mrp": 190.99,
+    "avg_discount_pct": 24.45,
+    "max_discount_pct": 51.06
+  },
+  {
+    "Category": "Home & Kitchen",
+    "SubCategory": "Cleaning Tools",
+    "product_count": 83,
+    "brand_count": 13,
+    "avg_mrp": 279.08,
+    "avg_discount_pct": 19.93,
+    "max_discount_pct": 60.24
+  },
+  {
+    "Category": "Home & Kitchen",
+    "SubCategory": "Home & Kitchen",
+    "product_count": 79,
+    "brand_count": 18,
+    "avg_mrp": 306.82,
+    "avg_discount_pct": 37.93,
+    "max_discount_pct": 76.72
+  },
+  {
+    "Category": "Packaged Food",
+    "SubCategory": "Ready To Cook",
+    "product_count": 79,
+    "brand_count": 32,
+    "avg_mrp": 117.73,
+    "avg_discount_pct": 29.33,
+    "max_discount_pct": 51.85
+  },
+  {
+    "Category": "Home & Kitchen",
+    "SubCategory": "Home Utility",
+    "product_count": 79,
+    "brand_count": 19,
+    "avg_mrp": 854.48,
+    "avg_discount_pct": 29.92,
+    "max_discount_pct": 80.32
+  },
+  {
+    "Category": "Home & Kitchen",
+    "SubCategory": "Cleaners",
+    "product_count": 78,
+    "brand_count": 21,
+    "avg_mrp": 201.24,
+    "avg_discount_pct": 22.02,
+    "max_discount_pct": 50.51
+  },
+  {
+    "Category": "Fruits & Vegetables",
+    "SubCategory": "Fruits & Vegetables",
+    "product_count": 78,
+    "brand_count": 2,
+    "avg_mrp": 79.62,
+    "avg_discount_pct": 22.32,
+    "max_discount_pct": 50.0
+  },
+  {
+    "Category": "Personal Care",
+    "SubCategory": "Personal Care/Nail Care",
+    "product_count": 74,
+    "brand_count": 4,
+    "avg_mrp": 95.89,
+    "avg_discount_pct": 31.84,
+    "max_discount_pct": 52.73
+  },
+  {
+    "Category": "Personal Care",
+    "SubCategory": "Oral Care",
+    "product_count": 73,
+    "brand_count": 14,
+    "avg_mrp": 148.66,
+    "avg_discount_pct": 21.12,
+    "max_discount_pct": 50.0
+  },
+  {
+    "Category": "School Supplies",
+    "SubCategory": "School Needs",
+    "product_count": 69,
+    "brand_count": 19,
+    "avg_mrp": 215.2,
+    "avg_discount_pct": 20.58,
+    "max_discount_pct": 60.4
+  },
+  {
+    "Category": "Grocery",
+    "SubCategory": "Dry Fruits",
+    "product_count": 68,
+    "brand_count": 18,
+    "avg_mrp": 425.68,
+    "avg_discount_pct": 31.59,
+    "max_discount_pct": 57.46
+  },
+  {
+    "Category": "Packaged Food",
+    "SubCategory": "Jams & Spreads",
+    "product_count": 68,
+    "brand_count": 23,
+    "avg_mrp": 245.1,
+    "avg_discount_pct": 22.24,
+    "max_discount_pct": 50.27
+  },
+  {
+    "Category": "Grocery",
+    "SubCategory": "Pulses",
+    "product_count": 64,
+    "brand_count": 7,
+    "avg_mrp": 102.56,
+    "avg_discount_pct": 14.57,
+    "max_discount_pct": 41.67
+  },
+  {
+    "Category": "Home & Kitchen",
+    "SubCategory": "Pooja Needs",
+    "product_count": 62,
+    "brand_count": 28,
+    "avg_mrp": 108.53,
+    "avg_discount_pct": 32.69,
+    "max_discount_pct": 50.82
+  },
+  {
+    "Category": "Packaged Food",
+    "SubCategory": "Ketchup & Sauce",
+    "product_count": 60,
+    "brand_count": 17,
+    "avg_mrp": 148.38,
+    "avg_discount_pct": 23.55,
+    "max_discount_pct": 50.4
+  },
+  {
+    "Category": "Grocery",
+    "SubCategory": "Flours & Grains",
+    "product_count": 57,
+    "brand_count": 17,
+    "avg_mrp": 138.25,
+    "avg_discount_pct": 20.08,
+    "max_discount_pct": 50.22
+  },
+  {
+    "Category": "Grocery",
+    "SubCategory": "Rice & Rice Products",
+    "product_count": 57,
+    "brand_count": 9,
+    "avg_mrp": 404.74,
+    "avg_discount_pct": 22.63,
+    "max_discount_pct": 50.23
+  },
+  {
+    "Category": "Grocery",
+    "SubCategory": "Dals",
+    "product_count": 56,
+    "brand_count": 8,
+    "avg_mrp": 145.32,
+    "avg_discount_pct": 16.61,
+    "max_discount_pct": 50.0
+  },
+  {
+    "Category": "Personal Care",
+    "SubCategory": "Baby & Kids",
+    "product_count": 54,
+    "brand_count": 10,
+    "avg_mrp": 707.87,
+    "avg_discount_pct": 29.08,
+    "max_discount_pct": 50.2
+  },
+  {
+    "Category": "Personal Care",
+    "SubCategory": "Deos & Perfumes",
+    "product_count": 54,
+    "brand_count": 13,
+    "avg_mrp": 330.09,
+    "avg_discount_pct": 40.34,
+    "max_discount_pct": 63.2
+  },
+  {
+    "Category": "Packaged Food",
+    "SubCategory": "Pasta & Noodles",
+    "product_count": 54,
+    "brand_count": 19,
+    "avg_mrp": 103.59,
+    "avg_discount_pct": 29.54,
+    "max_discount_pct": 58.19
+  },
+  {
+    "Category": "Personal Care",
+    "SubCategory": "Shaving Needs",
+    "product_count": 54,
+    "brand_count": 4,
+    "avg_mrp": 372.74,
+    "avg_discount_pct": 16.34,
+    "max_discount_pct": 50.0
+  },
+  {
+    "Category": "Packaged Food",
+    "SubCategory": "Gourmet Food",
+    "product_count": 50,
+    "brand_count": 14,
+    "avg_mrp": 359.56,
+    "avg_discount_pct": 29.49,
+    "max_discount_pct": 98.0
+  },
+  {
+    "Category": "Clothing & Accessories",
+    "SubCategory": "Men's",
+    "product_count": 50,
+    "brand_count": 5,
+    "avg_mrp": 267.54,
+    "avg_discount_pct": 24.01,
+    "max_discount_pct": 67.0
+  },
+  {
+    "Category": "Personal Care",
+    "SubCategory": "Face Care",
+    "product_count": 49,
+    "brand_count": 17,
+    "avg_mrp": 292.45,
+    "avg_discount_pct": 26.54,
+    "max_discount_pct": 50.3
+  },
+  {
+    "Category": "Packaged Food",
+    "SubCategory": "Personal Care",
+    "product_count": 47,
+    "brand_count": 16,
+    "avg_mrp": 287.09,
+    "avg_discount_pct": 25.6,
+    "max_discount_pct": 50.4
+  },
+  {
+    "Category": "Packaged Food",
+    "SubCategory": "Breakfast Cereals",
+    "product_count": 47,
+    "brand_count": 12,
+    "avg_mrp": 303.85,
+    "avg_discount_pct": 33.56,
+    "max_discount_pct": 53.7
+  },
+  {
+    "Category": "Clothing & Accessories",
+    "SubCategory": "Women's",
+    "product_count": 47,
+    "brand_count": 4,
+    "avg_mrp": 483.4,
+    "avg_discount_pct": 41.25,
+    "max_discount_pct": 70.14
+  },
+  {
+    "Category": "Grocery",
+    "SubCategory": "Grocery/Dry Fruits",
+    "product_count": 45,
+    "brand_count": 4,
+    "avg_mrp": 222.6,
+    "avg_discount_pct": 24.65,
+    "max_discount_pct": 40.5
+  },
+  {
+    "Category": "Packaged Food",
+    "SubCategory": "Pickles",
+    "product_count": 44,
+    "brand_count": 12,
+    "avg_mrp": 110.82,
+    "avg_discount_pct": 30.34,
+    "max_discount_pct": 50.59
+  },
+  {
+    "Category": "Personal Care",
+    "SubCategory": "Personal Hygiene",
+    "product_count": 43,
+    "brand_count": 11,
+    "avg_mrp": 111.74,
+    "avg_discount_pct": 23.45,
+    "max_discount_pct": 63.2
+  },
+  {
+    "Category": "Personal Care",
+    "SubCategory": "Eye Makeup",
+    "product_count": 42,
+    "brand_count": 8,
+    "avg_mrp": 394.4,
+    "avg_discount_pct": 29.84,
+    "max_discount_pct": 44.44
+  },
+  {
+    "Category": "Grocery",
+    "SubCategory": "Ghee & Vanaspati",
+    "product_count": 34,
+    "brand_count": 14,
+    "avg_mrp": 650.18,
+    "avg_discount_pct": 12.35,
+    "max_discount_pct": 31.55
+  },
+  {
+    "Category": "Raincoat",
+    "SubCategory": "Raincoat",
+    "product_count": 33,
+    "brand_count": 1,
+    "avg_mrp": 937.36,
+    "avg_discount_pct": 11.87,
+    "max_discount_pct": 17.31
+  },
+  {
+    "Category": "Appliances",
+    "SubCategory": "Home Appliances",
+    "product_count": 31,
+    "brand_count": 9,
+    "avg_mrp": 2316.77,
+    "avg_discount_pct": 27.36,
+    "max_discount_pct": 53.57
+  },
+  {
+    "Category": "Packaged Food",
+    "SubCategory": "Bakery",
+    "product_count": 31,
+    "brand_count": 6,
+    "avg_mrp": 69.94,
+    "avg_discount_pct": 27.72,
+    "max_discount_pct": 50.0
+  },
+  {
+    "Category": "Specials",
+    "SubCategory": "Festive Specials",
+    "product_count": 30,
+    "brand_count": 6,
+    "avg_mrp": 690.47,
+    "avg_discount_pct": 26.23,
+    "max_discount_pct": 46.96
+  },
+  {
+    "Category": "Personal Care",
+    "SubCategory": "Personal Care",
+    "product_count": 26,
+    "brand_count": 6,
+    "avg_mrp": 265.23,
+    "avg_discount_pct": 18.05,
+    "max_discount_pct": 50.18
+  },
+  {
+    "Category": "Plant Container",
+    "SubCategory": "Plant Container",
+    "product_count": 23,
+    "brand_count": 0,
+    "avg_mrp": 116.78,
+    "avg_discount_pct": 30.97,
+    "max_discount_pct": 50.5
+  },
+  {
+    "Category": "Home & Kitchen",
+    "SubCategory": "Tissue Paper & Napkins",
+    "product_count": 20,
+    "brand_count": 11,
+    "avg_mrp": 242.35,
+    "avg_discount_pct": 41.86,
+    "max_discount_pct": 52.4
+  },
+  {
+    "Category": "Home & Kitchen",
+    "SubCategory": "Furniture & Décor",
+    "product_count": 19,
+    "brand_count": 3,
+    "avg_mrp": 690.58,
+    "avg_discount_pct": 34.29,
+    "max_discount_pct": 50.13
+  },
+  {
+    "Category": "Beauty & Cosmetics",
+    "SubCategory": "Skin Care",
+    "product_count": 19,
+    "brand_count": 7,
+    "avg_mrp": 332.89,
+    "avg_discount_pct": 27.1,
+    "max_discount_pct": 50.31
+  },
+  {
+    "Category": "DMart Grocery",
+    "SubCategory": "DMart Grocery/Rice & Rice Products",
+    "product_count": 19,
+    "brand_count": 0,
+    "avg_mrp": 451.63,
+    "avg_discount_pct": 24.54,
+    "max_discount_pct": 39.35
+  },
+  {
+    "Category": "Tableware",
+    "SubCategory": "Tableware",
+    "product_count": 18,
+    "brand_count": 0,
+    "avg_mrp": 96.94,
+    "avg_discount_pct": 20.95,
+    "max_discount_pct": 24.83
+  },
+  {
+    "Category": "Personal Care",
+    "SubCategory": "Personal Care/Skin Care",
+    "product_count": 18,
+    "brand_count": 4,
+    "avg_mrp": 722.28,
+    "avg_discount_pct": 25.69,
+    "max_discount_pct": 43.37
+  },
+  {
+    "Category": "Grocery",
+    "SubCategory": "Salt / Sugar / Jaggery",
+    "product_count": 18,
+    "brand_count": 8,
+    "avg_mrp": 80.22,
+    "avg_discount_pct": 23.5,
+    "max_discount_pct": 50.67
+  },
+  {
+    "Category": "Beauty & Cosmetics",
+    "SubCategory": "Beauty & Cosmetics/Skin Care",
+    "product_count": 17,
+    "brand_count": 5,
+    "avg_mrp": 363.59,
+    "avg_discount_pct": 35.66,
+    "max_discount_pct": 50.51
+  },
+  {
+    "Category": "Grocery",
+    "SubCategory": "Grocery/Flours & Grains",
+    "product_count": 15,
+    "brand_count": 1,
+    "avg_mrp": 101.13,
+    "avg_discount_pct": 19.77,
+    "max_discount_pct": 35.09
+  },
+  {
+    "Category": "Appliances",
+    "SubCategory": "Kitchen Appliances",
+    "product_count": 14,
+    "brand_count": 8,
+    "avg_mrp": 3964.21,
+    "avg_discount_pct": 34.17,
+    "max_discount_pct": 50.84
+  },
+  {
+    "Category": "Grocery",
+    "SubCategory": "Grocery/Rice & Rice Products",
+    "product_count": 13,
+    "brand_count": 3,
+    "avg_mrp": 100.31,
+    "avg_discount_pct": 21.83,
+    "max_discount_pct": 42.5
+  },
+  {
+    "Category": "Backpacks",
+    "SubCategory": "Backpacks",
+    "product_count": 13,
+    "brand_count": 5,
+    "avg_mrp": 2188.38,
+    "avg_discount_pct": 51.73,
+    "max_discount_pct": 66.87
+  },
+  {
+    "Category": "DMart Grocery",
+    "SubCategory": "DMart Grocery",
+    "product_count": 10,
+    "brand_count": 2,
+    "avg_mrp": 146.8,
+    "avg_discount_pct": 24.92,
+    "max_discount_pct": 50.0
+  },
+  {
+    "Category": "Grocery",
+    "SubCategory": "Grocery/Salt / Sugar / Jaggery",
+    "product_count": 10,
+    "brand_count": 3,
+    "avg_mrp": 72.7,
+    "avg_discount_pct": 21.53,
+    "max_discount_pct": 28.89
+  },
+  {
+    "Category": "Home & Kitchen",
+    "SubCategory": "Home & Kitchen/Tissue Paper & Napkins",
+    "product_count": 8,
+    "brand_count": 5,
+    "avg_mrp": 68.5,
+    "avg_discount_pct": 43.4,
+    "max_discount_pct": 59.52
+  },
+  {
+    "Category": "Appliances",
+    "SubCategory": "Appliances",
+    "product_count": 8,
+    "brand_count": 4,
+    "avg_mrp": 443.62,
+    "avg_discount_pct": 43.9,
+    "max_discount_pct": 79.88
+  },
+  {
+    "Category": "Personal Care",
+    "SubCategory": "Tissue Paper & Napkins",
+    "product_count": 7,
+    "brand_count": 4,
+    "avg_mrp": 121.43,
+    "avg_discount_pct": 50.39,
+    "max_discount_pct": 50.53
+  },
+  {
+    "Category": "Home & Kitchen",
+    "SubCategory": "Disinfectants",
+    "product_count": 6,
+    "brand_count": 3,
+    "avg_mrp": 1992.0,
+    "avg_discount_pct": 14.79,
+    "max_discount_pct": 27.22
+  },
+  {
+    "Category": "Beauty & Cosmetics",
+    "SubCategory": "Face Care",
+    "product_count": 5,
+    "brand_count": 3,
+    "avg_mrp": 597.0,
+    "avg_discount_pct": 24.3,
+    "max_discount_pct": 44.07
+  },
+  {
+    "Category": "Beauty & Cosmetics",
+    "SubCategory": "Beauty & Cosmetics/Face Care",
+    "product_count": 5,
+    "brand_count": 3,
+    "avg_mrp": 579.4,
+    "avg_discount_pct": 19.68,
+    "max_discount_pct": 27.32
+  },
+  {
+    "Category": "Zebronics",
+    "SubCategory": "Zebronics",
+    "product_count": 5,
+    "brand_count": 1,
+    "avg_mrp": 801.0,
+    "avg_discount_pct": 56.75,
+    "max_discount_pct": 71.63
+  },
+  {
+    "Category": "Baby & Kids",
+    "SubCategory": "Baby & Kids",
+    "product_count": 4,
+    "brand_count": 2,
+    "avg_mrp": 224.75,
+    "avg_discount_pct": 2.86,
+    "max_discount_pct": 11.43
+  },
+  {
+    "Category": "Motorbike Helmets",
+    "SubCategory": "Motorbike Helmets",
+    "product_count": 4,
+    "brand_count": 2,
+    "avg_mrp": 1110.75,
+    "avg_discount_pct": 15.38,
+    "max_discount_pct": 20.0
+  },
+  {
+    "Category": "Personal Care",
+    "SubCategory": "Lip Care",
+    "product_count": 4,
+    "brand_count": 3,
+    "avg_mrp": 242.0,
+    "avg_discount_pct": 20.06,
+    "max_discount_pct": 25.08
+  },
+  {
+    "Category": "Unknown",
+    "SubCategory": "Unknown",
+    "product_count": 3,
+    "brand_count": 3,
+    "avg_mrp": 2665.0,
+    "avg_discount_pct": 50.01,
+    "max_discount_pct": 53.06
+  },
+  {
+    "Category": "Kitchen Aprons",
+    "SubCategory": "Kitchen Aprons",
+    "product_count": 3,
+    "brand_count": 1,
+    "avg_mrp": 285.0,
+    "avg_discount_pct": 24.56,
+    "max_discount_pct": 24.56
+  },
+  {
+    "Category": "Geep",
+    "SubCategory": "Geep",
+    "product_count": 3,
+    "brand_count": 1,
+    "avg_mrp": 288.0,
+    "avg_discount_pct": 61.87,
+    "max_discount_pct": 83.61
+  },
+  {
+    "Category": "Butterfly",
+    "SubCategory": "Butterfly",
+    "product_count": 2,
+    "brand_count": 1,
+    "avg_mrp": 4248.5,
+    "avg_discount_pct": 57.46,
+    "max_discount_pct": 58.79
+  },
+  {
+    "Category": "DMart Grocery",
+    "SubCategory": "Rice & Rice Products",
+    "product_count": 2,
+    "brand_count": 0,
+    "avg_mrp": 301.5,
+    "avg_discount_pct": 28.26,
+    "max_discount_pct": 38.24
+  },
+  {
+    "Category": "Computer Accessories",
+    "SubCategory": "Computer Accessories",
+    "product_count": 2,
+    "brand_count": 1,
+    "avg_mrp": 349.0,
+    "avg_discount_pct": 37.62,
+    "max_discount_pct": 50.17
+  },
+  {
+    "Category": "Joyo Plastics",
+    "SubCategory": "Joyo Plastics",
+    "product_count": 2,
+    "brand_count": 1,
+    "avg_mrp": 907.5,
+    "avg_discount_pct": 36.89,
+    "max_discount_pct": 64.51
+  },
+  {
+    "Category": "Pigeon",
+    "SubCategory": "Pigeon",
+    "product_count": 1,
+    "brand_count": 1,
+    "avg_mrp": 3595.0,
+    "avg_discount_pct": 49.96,
+    "max_discount_pct": 49.96
+  },
+  {
+    "Category": "Smartwatches",
+    "SubCategory": "Smartwatches",
+    "product_count": 1,
+    "brand_count": 1,
+    "avg_mrp": 5999.0,
+    "avg_discount_pct": 58.34,
+    "max_discount_pct": 58.34
+  },
+  {
+    "Category": "Syska",
+    "SubCategory": "Syska",
+    "product_count": 1,
+    "brand_count": 1,
+    "avg_mrp": 799.0,
+    "avg_discount_pct": 43.8,
+    "max_discount_pct": 43.8
+  },
+  {
+    "Category": "Water Purifiers & Accessories",
+    "SubCategory": "Water Purifiers & Accessories",
+    "product_count": 1,
+    "brand_count": 0,
+    "avg_mrp": 875.0,
+    "avg_discount_pct": 5.71,
+    "max_discount_pct": 5.71
+  },
+  {
+    "Category": "Wonderchef",
+    "SubCategory": "Wonderchef",
+    "product_count": 1,
+    "brand_count": 1,
+    "avg_mrp": 5300.0,
+    "avg_discount_pct": 49.08,
+    "max_discount_pct": 49.08
+  }
+]

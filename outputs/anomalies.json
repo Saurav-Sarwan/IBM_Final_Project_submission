@@ -1,0 +1,912 @@
+{
+  "extreme_discount_products": [
+    {
+      "Name": "Naagin Indian Hot Sauce - Original",
+      "Brand": "Naagin",
+      "Category": "Packaged Food",
+      "SubCategory": "Gourmet Food",
+      "Price": 50.0,
+      "DiscountedPrice": 1.0,
+      "DiscountPct": 98.0
+    },
+    {
+      "Name": "Naagin Indian Hot Sauce - Smoky Bhoot",
+      "Brand": "Naagin",
+      "Category": "Packaged Food",
+      "SubCategory": "Gourmet Food",
+      "Price": 50.0,
+      "DiscountedPrice": 1.0,
+      "DiscountPct": 98.0
+    },
+    {
+      "Name": "Naagin Indian Hot Sauce - Kantha Bomb",
+      "Brand": "Naagin",
+      "Category": "Packaged Food",
+      "SubCategory": "Gourmet Food",
+      "Price": 50.0,
+      "DiscountedPrice": 1.0,
+      "DiscountPct": 98.0
+    },
+    {
+      "Name": "Disposable FFP2 Face Mask",
+      "Brand": "",
+      "Category": "Specials",
+      "SubCategory": "Specials",
+      "Price": 425.0,
+      "DiscountedPrice": 60.0,
+      "DiscountPct": 85.88
+    },
+    {
+      "Name": "Geep Micro USB High Speed Charging Cable (1 Metre)",
+      "Brand": "Geep",
+      "Category": "Geep",
+      "SubCategory": "Geep",
+      "Price": 299.0,
+      "DiscountedPrice": 49.0,
+      "DiscountPct": 83.61
+    },
+    {
+      "Name": "Micro USB Charging Cable (1 Metre)",
+      "Brand": "",
+      "Category": "Home & Kitchen",
+      "SubCategory": "Home Utility",
+      "Price": 249.0,
+      "DiscountedPrice": 49.0,
+      "DiscountPct": 80.32
+    },
+    {
+      "Name": "Zebronics Aux Cable ASC100",
+      "Brand": "Zebronics",
+      "Category": "Appliances",
+      "SubCategory": "Appliances",
+      "Price": 169.0,
+      "DiscountedPrice": 34.0,
+      "DiscountPct": 79.88
+    },
+    {
+      "Name": "Syska LED Bulb B22 6500K",
+      "Brand": "Syska",
+      "Category": "Specials",
+      "SubCategory": "Specials",
+      "Price": 329.0,
+      "DiscountedPrice": 73.0,
+      "DiscountPct": 77.81
+    },
+    {
+      "Name": "Dr.WaterR Stainless Steel Milk Frother",
+      "Brand": "Dr.WaterR",
+      "Category": "Home & Kitchen",
+      "SubCategory": "Home & Kitchen",
+      "Price": 1499.0,
+      "DiscountedPrice": 349.0,
+      "DiscountPct": 76.72
+    },
+    {
+      "Name": "Trident Comfort Living Bath Towel 380 GSM - Tango Tomato",
+      "Brand": "Trident",
+      "Category": "Specials",
+      "SubCategory": "Specials",
+      "Price": 599.0,
+      "DiscountedPrice": 149.0,
+      "DiscountPct": 75.13
+    },
+    {
+      "Name": "Mastercook Malta Square Container Set",
+      "Brand": "",
+      "Category": "Home & Kitchen",
+      "SubCategory": "Home & Kitchen",
+      "Price": 375.0,
+      "DiscountedPrice": 99.0,
+      "DiscountPct": 73.6
+    },
+    {
+      "Name": "Portronics My Buddy K2 Laptop Stand",
+      "Brand": "Portronics",
+      "Category": "Specials",
+      "SubCategory": "Specials",
+      "Price": 2999.0,
+      "DiscountedPrice": 799.0,
+      "DiscountPct": 73.36
+    },
+    {
+      "Name": "Pigeon LED Tube Light",
+      "Brand": "Pigeon",
+      "Category": "Specials",
+      "SubCategory": "Specials",
+      "Price": 645.0,
+      "DiscountedPrice": 179.0,
+      "DiscountPct": 72.25
+    },
+    {
+      "Name": "Zebronics TU240C Type C Charging Cable",
+      "Brand": "Zebronics",
+      "Category": "Zebronics",
+      "SubCategory": "Zebronics",
+      "Price": 349.0,
+      "DiscountedPrice": 99.0,
+      "DiscountPct": 71.63
+    },
+    {
+      "Name": "Portronics Konnect A Charging Cable",
+      "Brand": "Portronics",
+      "Category": "Home & Kitchen",
+      "SubCategory": "Home Utility",
+      "Price": 349.0,
+      "DiscountedPrice": 99.0,
+      "DiscountPct": 71.63
+    },
+    {
+      "Name": "Feather Soft Red Ankle Length Legging - 1 Unit",
+      "Brand": "Feather Soft",
+      "Category": "Clothing & Accessories",
+      "SubCategory": "Women's",
+      "Price": 499.0,
+      "DiscountedPrice": 149.0,
+      "DiscountPct": 70.14
+    },
+    {
+      "Name": "Feather Soft Red Ankle Length Legging - 1 Unit",
+      "Brand": "Feather Soft",
+      "Category": "Clothing & Accessories",
+      "SubCategory": "Women's",
+      "Price": 499.0,
+      "DiscountedPrice": 149.0,
+      "DiscountPct": 70.14
+    },
+    {
+      "Name": "Feather Soft Navy Blue Ankle Length Legging - 1 Unit",
+      "Brand": "Feather Soft",
+      "Category": "Clothing & Accessories",
+      "SubCategory": "Women's",
+      "Price": 499.0,
+      "DiscountedPrice": 149.0,
+      "DiscountPct": 70.14
+    },
+    {
+      "Name": "Feather Soft Navy Blue Ankle Length Legging - 1 Unit",
+      "Brand": "Feather Soft",
+      "Category": "Clothing & Accessories",
+      "SubCategory": "Women's",
+      "Price": 499.0,
+      "DiscountedPrice": 149.0,
+      "DiscountPct": 70.14
+    },
+    {
+      "Name": "Feather Soft Skin Color Ankle Length Legging - 1 Unit",
+      "Brand": "Feather Soft",
+      "Category": "Clothing & Accessories",
+      "SubCategory": "Women's",
+      "Price": 499.0,
+      "DiscountedPrice": 149.0,
+      "DiscountPct": 70.14
+    },
+    {
+      "Name": "Feather Soft Red Ankle Length Legging - 1 Unit",
+      "Brand": "Feather Soft",
+      "Category": "Clothing & Accessories",
+      "SubCategory": "Women's",
+      "Price": 499.0,
+      "DiscountedPrice": 149.0,
+      "DiscountPct": 70.14
+    },
+    {
+      "Name": "Feather Soft Skin Color Ankle Length Legging - 1 Unit",
+      "Brand": "Feather Soft",
+      "Category": "Clothing & Accessories",
+      "SubCategory": "Women's",
+      "Price": 499.0,
+      "DiscountedPrice": 149.0,
+      "DiscountPct": 70.14
+    },
+    {
+      "Name": "Feather Soft Skin Color Ankle Length Legging - 1 Unit",
+      "Brand": "Feather Soft",
+      "Category": "Clothing & Accessories",
+      "SubCategory": "Women's",
+      "Price": 499.0,
+      "DiscountedPrice": 149.0,
+      "DiscountPct": 70.14
+    },
+    {
+      "Name": "Feather Soft Skin Color Ankle Length Legging - 1 Unit",
+      "Brand": "Feather Soft",
+      "Category": "Clothing & Accessories",
+      "SubCategory": "Women's",
+      "Price": 499.0,
+      "DiscountedPrice": 149.0,
+      "DiscountPct": 70.14
+    },
+    {
+      "Name": "Feather Soft Skin Color Ankle Length Legging - 1 Unit",
+      "Brand": "Feather Soft",
+      "Category": "Clothing & Accessories",
+      "SubCategory": "Women's",
+      "Price": 499.0,
+      "DiscountedPrice": 149.0,
+      "DiscountPct": 70.14
+    },
+    {
+      "Name": "Ambrane Wh-65 Over The Ear Wireless Headphones With Mic - Black",
+      "Brand": "Ambrane",
+      "Category": "Specials",
+      "SubCategory": "Specials",
+      "Price": 1999.0,
+      "DiscountedPrice": 599.0,
+      "DiscountPct": 70.04
+    },
+    {
+      "Name": "Urbn Raw Wireless Neckband - Black",
+      "Brand": "",
+      "Category": "Specials",
+      "SubCategory": "Specials",
+      "Price": 2999.0,
+      "DiscountedPrice": 899.0,
+      "DiscountPct": 70.02
+    }
+  ],
+  "zero_discount_products": [
+    {
+      "Name": "Amul Taaza Toned Milk",
+      "Brand": "Amul",
+      "Category": "Dairy & Beverages",
+      "SubCategory": "Dairy",
+      "Price": 15.0
+    },
+    {
+      "Name": "Amul Masti Spiced Buttermilk",
+      "Brand": "Amul",
+      "Category": "Dairy & Beverages",
+      "SubCategory": "Dairy",
+      "Price": 50.0
+    },
+    {
+      "Name": "Yakult Probiotic Health Drink",
+      "Brand": "Yakult",
+      "Category": "Dairy & Beverages",
+      "SubCategory": "Dairy",
+      "Price": 80.0
+    },
+    {
+      "Name": "Amul Rose Lassi",
+      "Brand": "Amul",
+      "Category": "Dairy & Beverages",
+      "SubCategory": "Dairy",
+      "Price": 20.0
+    },
+    {
+      "Name": "Amul Lassi Rose Flavour",
+      "Brand": "Amul",
+      "Category": "Dairy & Beverages",
+      "SubCategory": "Dairy",
+      "Price": 70.0
+    },
+    {
+      "Name": "Yakult Light Health Drink",
+      "Brand": "Yakult",
+      "Category": "Dairy & Beverages",
+      "SubCategory": "Beverages",
+      "Price": 95.0
+    },
+    {
+      "Name": "Parle-G Original Gluco Biscuits",
+      "Brand": "Parle",
+      "Category": "Packaged Food",
+      "SubCategory": "Biscuits & Cookies",
+      "Price": 5.0
+    },
+    {
+      "Name": "Nestle Ceregrow Milk & Fruits",
+      "Brand": "Nestle",
+      "Category": "Baby & Kids",
+      "SubCategory": "Baby & Kids",
+      "Price": 303.0
+    },
+    {
+      "Name": "Nestle Cerelac Multigrain Dal Veg",
+      "Brand": "Nestle",
+      "Category": "Baby & Kids",
+      "SubCategory": "Baby & Kids",
+      "Price": 298.0
+    },
+    {
+      "Name": "Nestle Cerelac Wheat Apple Cherry",
+      "Brand": "Nestle",
+      "Category": "Baby & Kids",
+      "SubCategory": "Baby & Kids",
+      "Price": 263.0
+    }
+  ],
+  "no_brand_products": [
+    {
+      "Name": "Chana Dal",
+      "Category": "Grocery",
+      "SubCategory": "Dals",
+      "Price": 49.0,
+      "DiscountPct": 14.29
+    },
+    {
+      "Name": "Chana Dal",
+      "Category": "Grocery",
+      "SubCategory": "Dals",
+      "Price": 96.0,
+      "DiscountPct": 16.67
+    },
+    {
+      "Name": "Rajma White",
+      "Category": "Grocery",
+      "SubCategory": "Pulses",
+      "Price": 112.0,
+      "DiscountPct": 8.93
+    },
+    {
+      "Name": "Rajma Kashmiri Red",
+      "Category": "Grocery",
+      "SubCategory": "Pulses",
+      "Price": 101.0,
+      "DiscountPct": 19.8
+    },
+    {
+      "Name": "Rajma Red Small",
+      "Category": "Grocery",
+      "SubCategory": "Pulses",
+      "Price": 61.0,
+      "DiscountPct": 8.2
+    },
+    {
+      "Name": "Moong Dal",
+      "Category": "Grocery",
+      "SubCategory": "Dals",
+      "Price": 71.0,
+      "DiscountPct": 15.49
+    },
+    {
+      "Name": "Moong Dal",
+      "Category": "Grocery",
+      "SubCategory": "Dals",
+      "Price": 139.0,
+      "DiscountPct": 10.79
+    },
+    {
+      "Name": "Moong Dal Chilti",
+      "Category": "Grocery",
+      "SubCategory": "Dals",
+      "Price": 70.0,
+      "DiscountPct": 17.14
+    },
+    {
+      "Name": "Moong Dal Chilti",
+      "Category": "Grocery",
+      "SubCategory": "Dals",
+      "Price": 140.0,
+      "DiscountPct": 20.0
+    },
+    {
+      "Name": "Chowli Big",
+      "Category": "Grocery",
+      "SubCategory": "Pulses",
+      "Price": 64.0,
+      "DiscountPct": 18.75
+    },
+    {
+      "Name": "Chowli Premium",
+      "Category": "Grocery",
+      "SubCategory": "Pulses",
+      "Price": 82.0,
+      "DiscountPct": 8.54
+    },
+    {
+      "Name": "Chowli Small",
+      "Category": "Grocery",
+      "SubCategory": "Pulses",
+      "Price": 62.0,
+      "DiscountPct": 16.13
+    },
+    {
+      "Name": "Chowli Red",
+      "Category": "Grocery",
+      "SubCategory": "Pulses",
+      "Price": 77.0,
+      "DiscountPct": 12.99
+    },
+    {
+      "Name": "Tur Dal Latur",
+      "Category": "Grocery",
+      "SubCategory": "Dals",
+      "Price": 78.0,
+      "DiscountPct": 19.23
+    },
+    {
+      "Name": "Tur Dal Latur",
+      "Category": "Grocery",
+      "SubCategory": "Dals",
+      "Price": 157.0,
+      "DiscountPct": 16.56
+    },
+    {
+      "Name": "Tur Dal Premium Gujarat",
+      "Category": "Grocery",
+      "SubCategory": "Dals",
+      "Price": 88.0,
+      "DiscountPct": 13.64
+    },
+    {
+      "Name": "Tur Dal Premium Gujarat",
+      "Category": "Grocery",
+      "SubCategory": "Dals",
+      "Price": 180.0,
+      "DiscountPct": 21.11
+    },
+    {
+      "Name": "Toor Dal Plain",
+      "Category": "Grocery",
+      "SubCategory": "Dals",
+      "Price": 750.0,
+      "DiscountPct": 22.0
+    },
+    {
+      "Name": "Toor Dal Oily",
+      "Category": "Grocery",
+      "SubCategory": "Dals",
+      "Price": 750.0,
+      "DiscountPct": 21.6
+    },
+    {
+      "Name": "Tuwar Whole",
+      "Category": "Grocery",
+      "SubCategory": "Dals",
+      "Price": 70.0,
+      "DiscountPct": 24.29
+    },
+    {
+      "Name": "Udid (Urad) Dal",
+      "Category": "Grocery",
+      "SubCategory": "Dals",
+      "Price": 88.0,
+      "DiscountPct": 17.05
+    },
+    {
+      "Name": "Udid (Urad) Dal",
+      "Category": "Grocery",
+      "SubCategory": "Dals",
+      "Price": 173.0,
+      "DiscountPct": 19.08
+    },
+    {
+      "Name": "Desi Kabuli Chana",
+      "Category": "Grocery",
+      "SubCategory": "Pulses",
+      "Price": 95.0,
+      "DiscountPct": 20.0
+    },
+    {
+      "Name": "Desi Kabuli Chana",
+      "Category": "Grocery",
+      "SubCategory": "Pulses",
+      "Price": 190.0,
+      "DiscountPct": 16.32
+    },
+    {
+      "Name": "Udid",
+      "Category": "Grocery",
+      "SubCategory": "Dals",
+      "Price": 88.0,
+      "DiscountPct": 21.59
+    },
+    {
+      "Name": "Udid (Urad) Dal Chilti",
+      "Category": "Grocery",
+      "SubCategory": "Dals",
+      "Price": 81.0,
+      "DiscountPct": 17.28
+    },
+    {
+      "Name": "Emperor Premium Dates Zahidi",
+      "Category": "Grocery",
+      "SubCategory": "Dry Fruits",
+      "Price": 150.0,
+      "DiscountPct": 24.67
+    },
+    {
+      "Name": "Apis Premium Seeded Dates",
+      "Category": "Grocery",
+      "SubCategory": "Dry Fruits",
+      "Price": 120.0,
+      "DiscountPct": 50.0
+    },
+    {
+      "Name": "Masoor Dal",
+      "Category": "Grocery",
+      "SubCategory": "Dals",
+      "Price": 68.0,
+      "DiscountPct": 14.71
+    },
+    {
+      "Name": "Masoor Dal",
+      "Category": "Grocery",
+      "SubCategory": "Dals",
+      "Price": 133.0,
+      "DiscountPct": 15.04
+    }
+  ],
+  "premium_high_discount_products": [
+    {
+      "Name": "Portronics My Buddy K2 Laptop Stand",
+      "Brand": "Portronics",
+      "Category": "Specials",
+      "Price": 2999.0,
+      "DiscountedPrice": 799.0,
+      "DiscountPct": 73.36
+    },
+    {
+      "Name": "Urbn Raw Wireless Neckband - Black",
+      "Brand": "",
+      "Category": "Specials",
+      "Price": 2999.0,
+      "DiscountedPrice": 899.0,
+      "DiscountPct": 70.02
+    },
+    {
+      "Name": "Portronics Brillo 3-Led Lamp",
+      "Brand": "Portronics",
+      "Category": "Home & Kitchen",
+      "Price": 2499.0,
+      "DiscountedPrice": 799.0,
+      "DiscountPct": 68.03
+    },
+    {
+      "Name": "Boat Bass 910 Wired Headphone",
+      "Brand": "Boat",
+      "Category": "Specials",
+      "Price": 2490.0,
+      "DiscountedPrice": 799.0,
+      "DiscountPct": 67.91
+    },
+    {
+      "Name": "Boat Bass 900 Wired Headphone - White",
+      "Brand": "Boat",
+      "Category": "Specials",
+      "Price": 2490.0,
+      "DiscountedPrice": 799.0,
+      "DiscountPct": 67.91
+    },
+    {
+      "Name": "Aristocrat Kane Backpack - Light Blue",
+      "Brand": "VIP",
+      "Category": "Backpacks",
+      "Price": 2110.0,
+      "DiscountedPrice": 699.0,
+      "DiscountPct": 66.87
+    },
+    {
+      "Name": "Raymond Hazel Double Bedsheet - 009892",
+      "Brand": "Raymond",
+      "Category": "Home & Kitchen",
+      "Price": 2099.0,
+      "DiscountedPrice": 699.0,
+      "DiscountPct": 66.7
+    },
+    {
+      "Name": "Raymond Hazel Double Bedsheet - 009912",
+      "Brand": "Raymond",
+      "Category": "Home & Kitchen",
+      "Price": 2099.0,
+      "DiscountedPrice": 699.0,
+      "DiscountPct": 66.7
+    },
+    {
+      "Name": "Raymond Hazel Double Bedsheet - 009902",
+      "Brand": "Raymond",
+      "Category": "Home & Kitchen",
+      "Price": 2099.0,
+      "DiscountedPrice": 699.0,
+      "DiscountPct": 66.7
+    },
+    {
+      "Name": "Raymond Hazel Double Bedsheet - 009890",
+      "Brand": "Raymond",
+      "Category": "Home & Kitchen",
+      "Price": 2099.0,
+      "DiscountedPrice": 699.0,
+      "DiscountPct": 66.7
+    },
+    {
+      "Name": "Raymond Hazel Double Bedsheet - 009908",
+      "Brand": "Raymond",
+      "Category": "Home & Kitchen",
+      "Price": 2099.0,
+      "DiscountedPrice": 699.0,
+      "DiscountPct": 66.7
+    },
+    {
+      "Name": "Raymond Hazel Double Bedsheet - 009907",
+      "Brand": "Raymond",
+      "Category": "Home & Kitchen",
+      "Price": 2099.0,
+      "DiscountedPrice": 699.0,
+      "DiscountPct": 66.7
+    },
+    {
+      "Name": "Raymond Hazel Double Bedsheet - 009893",
+      "Brand": "Raymond",
+      "Category": "Home & Kitchen",
+      "Price": 2099.0,
+      "DiscountedPrice": 699.0,
+      "DiscountPct": 66.7
+    },
+    {
+      "Name": "Raymond Hazel Double Bedsheet - 009896",
+      "Brand": "Raymond",
+      "Category": "Home & Kitchen",
+      "Price": 2099.0,
+      "DiscountedPrice": 699.0,
+      "DiscountPct": 66.7
+    },
+    {
+      "Name": "Portronics Wireless Sports Earburds",
+      "Brand": "Potronics",
+      "Category": "Specials",
+      "Price": 2999.0,
+      "DiscountedPrice": 999.0,
+      "DiscountPct": 66.69
+    },
+    {
+      "Name": "Bertolli Extra Light Tasting Olive Oil",
+      "Brand": "Bertolli",
+      "Category": "Grocery",
+      "Price": 2999.0,
+      "DiscountedPrice": 1049.0,
+      "DiscountPct": 65.02
+    },
+    {
+      "Name": "Boat Rockerz 450R Black Wireless Bluetooth Headphone",
+      "Brand": "Boat",
+      "Category": "Specials",
+      "Price": 3990.0,
+      "DiscountedPrice": 1399.0,
+      "DiscountPct": 64.94
+    },
+    {
+      "Name": "Aristocrat Gulf Backpack - Grey",
+      "Brand": "VIP",
+      "Category": "Backpacks",
+      "Price": 2900.0,
+      "DiscountedPrice": 1069.0,
+      "DiscountPct": 63.14
+    },
+    {
+      "Name": "Aristocrat Gulf Backpack - Green",
+      "Brand": "VIP",
+      "Category": "Backpacks",
+      "Price": 2900.0,
+      "DiscountedPrice": 1069.0,
+      "DiscountPct": 63.14
+    },
+    {
+      "Name": "Aristocrat Tiago Backpack - Blue",
+      "Brand": "VIP",
+      "Category": "Backpacks",
+      "Price": 3500.0,
+      "DiscountedPrice": 1299.0,
+      "DiscountPct": 62.89
+    },
+    {
+      "Name": "Aristocrat Marco Laptop Backpack - Black",
+      "Brand": "Aristocrat",
+      "Category": "Backpacks",
+      "Price": 2150.0,
+      "DiscountedPrice": 799.0,
+      "DiscountPct": 62.84
+    },
+    {
+      "Name": "Wonderchef Acura Non-stick Cookware Set",
+      "Brand": "",
+      "Category": "Home & Kitchen",
+      "Price": 4000.0,
+      "DiscountedPrice": 1499.0,
+      "DiscountPct": 62.52
+    },
+    {
+      "Name": "Ambrane Dots 38 Wireless Earphone",
+      "Brand": "Ambrane",
+      "Category": "Specials",
+      "Price": 2499.0,
+      "DiscountedPrice": 999.0,
+      "DiscountPct": 60.02
+    },
+    {
+      "Name": "Boat Black Stone 650R Bluetooth Speaker",
+      "Brand": "Boat",
+      "Category": "Specials",
+      "Price": 4990.0,
+      "DiscountedPrice": 1999.0,
+      "DiscountPct": 59.94
+    },
+    {
+      "Name": "Boat Rockerz 238 Black Wireless Bluetooth Headset",
+      "Brand": "Boat",
+      "Category": "Specials",
+      "Price": 2990.0,
+      "DiscountedPrice": 1199.0,
+      "DiscountPct": 59.9
+    },
+    {
+      "Name": "Zebronics Ace Portable Bluetooth Speaker",
+      "Brand": "Zebronics",
+      "Category": "Specials",
+      "Price": 2699.0,
+      "DiscountedPrice": 1099.0,
+      "DiscountPct": 59.28
+    },
+    {
+      "Name": "Crystal Non-Stick Cookware Set - CNS 897",
+      "Brand": "Crystal",
+      "Category": "Specials",
+      "Price": 2195.0,
+      "DiscountedPrice": 899.0,
+      "DiscountPct": 59.04
+    },
+    {
+      "Name": "Butterfly Stainless Steel Outer Lid Curve Cooker",
+      "Brand": "Butterfly",
+      "Category": "Butterfly",
+      "Price": 4851.0,
+      "DiscountedPrice": 1999.0,
+      "DiscountPct": 58.79
+    },
+    {
+      "Name": "Portronics Kronos Y1 Smart Watch - Grey",
+      "Brand": "Portronics",
+      "Category": "Smartwatches",
+      "Price": 5999.0,
+      "DiscountedPrice": 2499.0,
+      "DiscountPct": 58.34
+    },
+    {
+      "Name": "Del Monte Extra Light Olive Oil",
+      "Brand": "Del Monte",
+      "Category": "Grocery",
+      "Price": 2400.0,
+      "DiscountedPrice": 1023.0,
+      "DiscountPct": 57.38
+    },
+    {
+      "Name": "Boat Rockerz 255R Black Bluetooth Earphone",
+      "Brand": "Boat",
+      "Category": "Specials",
+      "Price": 2990.0,
+      "DiscountedPrice": 1299.0,
+      "DiscountPct": 56.56
+    },
+    {
+      "Name": "Butterfly Stainless Steel Outer Lid Curve Cooker",
+      "Brand": "Butterfly",
+      "Category": "Butterfly",
+      "Price": 3646.0,
+      "DiscountedPrice": 1599.0,
+      "DiscountPct": 56.14
+    },
+    {
+      "Name": "Anjali Fab Non-Stick Granita Gift Set",
+      "Brand": "Anjali",
+      "Category": "Specials",
+      "Price": 2995.0,
+      "DiscountedPrice": 1329.0,
+      "DiscountPct": 55.63
+    },
+    {
+      "Name": "Philips Tunable Wi-Fi T-Beamer B22",
+      "Brand": "Philips",
+      "Category": "Home & Kitchen",
+      "Price": 2399.0,
+      "DiscountedPrice": 1099.0,
+      "DiscountPct": 54.19
+    },
+    {
+      "Name": "Borges Extra Light Olive Oil",
+      "Brand": "Borges",
+      "Category": "Grocery",
+      "Price": 2600.0,
+      "DiscountedPrice": 1199.0,
+      "DiscountPct": 53.88
+    },
+    {
+      "Name": "Leonardo Olive Pomace Oil",
+      "Brand": "Leonardo",
+      "Category": "Grocery",
+      "Price": 4099.0,
+      "DiscountedPrice": 1899.0,
+      "DiscountPct": 53.67
+    },
+    {
+      "Name": "Pigeon ESS Non-Stick Gift Set - Red",
+      "Brand": "Pigeon",
+      "Category": "Unknown",
+      "Price": 2895.0,
+      "DiscountedPrice": 1359.0,
+      "DiscountPct": 53.06
+    },
+    {
+      "Name": "Wonderchef Milano Set - Red",
+      "Brand": "Wonderchef",
+      "Category": "Unknown",
+      "Price": 4200.0,
+      "DiscountedPrice": 1999.0,
+      "DiscountPct": 52.4
+    },
+    {
+      "Name": "Wildcraft Power Laptop Backpack - Black",
+      "Brand": "Wildcraft",
+      "Category": "School Supplies",
+      "Price": 2499.0,
+      "DiscountedPrice": 1199.0,
+      "DiscountPct": 52.02
+    },
+    {
+      "Name": "Portronics Sounddrum-1 Bluetooth Speaker",
+      "Brand": "Portronics",
+      "Category": "Specials",
+      "Price": 2499.0,
+      "DiscountedPrice": 1199.0,
+      "DiscountPct": 52.02
+    },
+    {
+      "Name": "Pigeon Favourite Aluminium Pressure Cooker",
+      "Brand": "Pigeon",
+      "Category": "Home & Kitchen",
+      "Price": 2495.0,
+      "DiscountedPrice": 1199.0,
+      "DiscountPct": 51.94
+    },
+    {
+      "Name": "Borges Extra Light Olive Oil",
+      "Brand": "Borges",
+      "Category": "Grocery",
+      "Price": 5500.0,
+      "DiscountedPrice": 2649.0,
+      "DiscountPct": 51.84
+    },
+    {
+      "Name": "Philips LED Wi-Fi Bulb B22",
+      "Brand": "Philips",
+      "Category": "Home & Kitchen",
+      "Price": 2049.0,
+      "DiscountedPrice": 999.0,
+      "DiscountPct": 51.24
+    },
+    {
+      "Name": "Wonderchef Nutri-Blend Red With 3 Jars",
+      "Brand": "Wonderchef",
+      "Category": "Appliances",
+      "Price": 6100.0,
+      "DiscountedPrice": 2999.0,
+      "DiscountPct": 50.84
+    },
+    {
+      "Name": "Bajaj MX35N Steam Iron",
+      "Brand": "Bajaj",
+      "Category": "Appliances",
+      "Price": 3800.0,
+      "DiscountedPrice": 1899.0,
+      "DiscountPct": 50.03
+    },
+    {
+      "Name": "Wildcraft Power Laptop Backpack - Grey",
+      "Brand": "Wildcraft",
+      "Category": "Backpacks",
+      "Price": 2599.0,
+      "DiscountedPrice": 1299.0,
+      "DiscountPct": 50.02
+    },
+    {
+      "Name": "Portronics Pixel Portable Bt Speaker",
+      "Brand": "Potronics",
+      "Category": "Specials",
+      "Price": 2999.0,
+      "DiscountedPrice": 1499.0,
+      "DiscountPct": 50.02
+    }
+  ],
+  "extreme_discount_count": 27,
+  "zero_discount_count": 10,
+  "no_brand_count": 30
+}

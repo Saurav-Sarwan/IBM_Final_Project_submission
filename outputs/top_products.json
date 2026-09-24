@@ -1,0 +1,326 @@
+{
+  "top_discounted": [
+    {
+      "Name": "Naagin Indian Hot Sauce - Smoky Bhoot",
+      "Brand": "Naagin",
+      "Category": "Packaged Food",
+      "Price": 50.0,
+      "DiscountedPrice": 1.0,
+      "DiscountPct": 98.0
+    },
+    {
+      "Name": "Naagin Indian Hot Sauce - Original",
+      "Brand": "Naagin",
+      "Category": "Packaged Food",
+      "Price": 50.0,
+      "DiscountedPrice": 1.0,
+      "DiscountPct": 98.0
+    },
+    {
+      "Name": "Naagin Indian Hot Sauce - Kantha Bomb",
+      "Brand": "Naagin",
+      "Category": "Packaged Food",
+      "Price": 50.0,
+      "DiscountedPrice": 1.0,
+      "DiscountPct": 98.0
+    },
+    {
+      "Name": "Disposable FFP2 Face Mask",
+      "Brand": "",
+      "Category": "Specials",
+      "Price": 425.0,
+      "DiscountedPrice": 60.0,
+      "DiscountPct": 85.88
+    },
+    {
+      "Name": "Geep Micro USB High Speed Charging Cable (1 Metre)",
+      "Brand": "Geep",
+      "Category": "Geep",
+      "Price": 299.0,
+      "DiscountedPrice": 49.0,
+      "DiscountPct": 83.61
+    },
+    {
+      "Name": "Micro USB Charging Cable (1 Metre)",
+      "Brand": "",
+      "Category": "Home & Kitchen",
+      "Price": 249.0,
+      "DiscountedPrice": 49.0,
+      "DiscountPct": 80.32
+    },
+    {
+      "Name": "Zebronics Aux Cable ASC100",
+      "Brand": "Zebronics",
+      "Category": "Appliances",
+      "Price": 169.0,
+      "DiscountedPrice": 34.0,
+      "DiscountPct": 79.88
+    },
+    {
+      "Name": "Syska LED Bulb B22 6500K",
+      "Brand": "Syska",
+      "Category": "Specials",
+      "Price": 329.0,
+      "DiscountedPrice": 73.0,
+      "DiscountPct": 77.81
+    },
+    {
+      "Name": "Dr.WaterR Stainless Steel Milk Frother",
+      "Brand": "Dr.WaterR",
+      "Category": "Home & Kitchen",
+      "Price": 1499.0,
+      "DiscountedPrice": 349.0,
+      "DiscountPct": 76.72
+    },
+    {
+      "Name": "Trident Comfort Living Bath Towel 380 GSM - Tango Tomato",
+      "Brand": "Trident",
+      "Category": "Specials",
+      "Price": 599.0,
+      "DiscountedPrice": 149.0,
+      "DiscountPct": 75.13
+    },
+    {
+      "Name": "Mastercook Malta Square Container Set",
+      "Brand": "",
+      "Category": "Home & Kitchen",
+      "Price": 375.0,
+      "DiscountedPrice": 99.0,
+      "DiscountPct": 73.6
+    },
+    {
+      "Name": "Portronics My Buddy K2 Laptop Stand",
+      "Brand": "Portronics",
+      "Category": "Specials",
+      "Price": 2999.0,
+      "DiscountedPrice": 799.0,
+      "DiscountPct": 73.36
+    },
+    {
+      "Name": "Pigeon LED Tube Light",
+      "Brand": "Pigeon",
+      "Category": "Specials",
+      "Price": 645.0,
+      "DiscountedPrice": 179.0,
+      "DiscountPct": 72.25
+    },
+    {
+      "Name": "Portronics Konnect A Charging Cable",
+      "Brand": "Portronics",
+      "Category": "Home & Kitchen",
+      "Price": 349.0,
+      "DiscountedPrice": 99.0,
+      "DiscountPct": 71.63
+    },
+    {
+      "Name": "Zebronics TU240C Type C Charging Cable",
+      "Brand": "Zebronics",
+      "Category": "Zebronics",
+      "Price": 349.0,
+      "DiscountedPrice": 99.0,
+      "DiscountPct": 71.63
+    },
+    {
+      "Name": "Feather Soft Skin Color Ankle Length Legging - 1 Unit",
+      "Brand": "Feather Soft",
+      "Category": "Clothing & Accessories",
+      "Price": 499.0,
+      "DiscountedPrice": 149.0,
+      "DiscountPct": 70.14
+    },
+    {
+      "Name": "Feather Soft Skin Color Ankle Length Legging - 1 Unit",
+      "Brand": "Feather Soft",
+      "Category": "Clothing & Accessories",
+      "Price": 499.0,
+      "DiscountedPrice": 149.0,
+      "DiscountPct": 70.14
+    },
+    {
+      "Name": "Feather Soft Red Ankle Length Legging - 1 Unit",
+      "Brand": "Feather Soft",
+      "Category": "Clothing & Accessories",
+      "Price": 499.0,
+      "DiscountedPrice": 149.0,
+      "DiscountPct": 70.14
+    },
+    {
+      "Name": "Feather Soft Skin Color Ankle Length Legging - 1 Unit",
+      "Brand": "Feather Soft",
+      "Category": "Clothing & Accessories",
+      "Price": 499.0,
+      "DiscountedPrice": 149.0,
+      "DiscountPct": 70.14
+    },
+    {
+      "Name": "Feather Soft Skin Color Ankle Length Legging - 1 Unit",
+      "Brand": "Feather Soft",
+      "Category": "Clothing & Accessories",
+      "Price": 499.0,
+      "DiscountedPrice": 149.0,
+      "DiscountPct": 70.14
+    }
+  ],
+  "highest_mrp": [
+    {
+      "Name": "Philips UV-C Disinfection System",
+      "Brand": "Philips",
+      "Category": "Home & Kitchen",
+      "Price": 10990.0,
+      "DiscountedPrice": 7999.0,
+      "DiscountPct": 27.22
+    },
+    {
+      "Name": "Bathla Advance 5 Step Ladder-Orange",
+      "Brand": "Bathla",
+      "Category": "Home & Kitchen",
+      "Price": 8999.0,
+      "DiscountedPrice": 4699.0,
+      "DiscountPct": 47.78
+    },
+    {
+      "Name": "Godrej Goldilocks Personal White Locker",
+      "Brand": "Godrej",
+      "Category": "Home & Kitchen",
+      "Price": 7669.0,
+      "DiscountedPrice": 4999.0,
+      "DiscountPct": 34.82
+    },
+    {
+      "Name": "Bathla Advance 4 Step Ladder-Orange",
+      "Brand": "Bathla",
+      "Category": "Home & Kitchen",
+      "Price": 6799.0,
+      "DiscountedPrice": 4149.0,
+      "DiscountPct": 38.98
+    },
+    {
+      "Name": "Bajaj GX8 Mixer Grinder - 750 W",
+      "Brand": "Bajaj",
+      "Category": "Appliances",
+      "Price": 6275.0,
+      "DiscountedPrice": 3599.0,
+      "DiscountPct": 42.65
+    },
+    {
+      "Name": "Wonderchef Nutri-Blend Red With 3 Jars",
+      "Brand": "Wonderchef",
+      "Category": "Appliances",
+      "Price": 6100.0,
+      "DiscountedPrice": 2999.0,
+      "DiscountPct": 50.84
+    },
+    {
+      "Name": "Morphy Richards Primo Classique Mixer Grinder - 750 W",
+      "Brand": "Morphy Richards",
+      "Category": "Appliances",
+      "Price": 6095.0,
+      "DiscountedPrice": 3999.0,
+      "DiscountPct": 34.39
+    },
+    {
+      "Name": "Portronics Kronos Y1 Smart Watch - Grey",
+      "Brand": "Portronics",
+      "Category": "Smartwatches",
+      "Price": 5999.0,
+      "DiscountedPrice": 2499.0,
+      "DiscountPct": 58.34
+    },
+    {
+      "Name": "Crompton Instant Water Heater",
+      "Brand": "Crompton Greaves",
+      "Category": "Appliances",
+      "Price": 5600.0,
+      "DiscountedPrice": 3899.0,
+      "DiscountPct": 30.38
+    },
+    {
+      "Name": "Borges Extra Light Olive Oil",
+      "Brand": "Borges",
+      "Category": "Grocery",
+      "Price": 5500.0,
+      "DiscountedPrice": 2649.0,
+      "DiscountPct": 51.84
+    },
+    {
+      "Name": "Wonderchef Nutri-Blend Black",
+      "Brand": "Wonderchef",
+      "Category": "Wonderchef",
+      "Price": 5300.0,
+      "DiscountedPrice": 2699.0,
+      "DiscountPct": 49.08
+    },
+    {
+      "Name": "Boat Black Stone 650R Bluetooth Speaker",
+      "Brand": "Boat",
+      "Category": "Specials",
+      "Price": 4990.0,
+      "DiscountedPrice": 1999.0,
+      "DiscountPct": 59.94
+    },
+    {
+      "Name": "Wonderchef Non-Stick Burlington Set : 5 Pieces",
+      "Brand": "Wonderchef",
+      "Category": "Specials",
+      "Price": 4900.0,
+      "DiscountedPrice": 2599.0,
+      "DiscountPct": 46.96
+    },
+    {
+      "Name": "Butterfly Stainless Steel Outer Lid Curve Cooker",
+      "Brand": "Butterfly",
+      "Category": "Butterfly",
+      "Price": 4851.0,
+      "DiscountedPrice": 1999.0,
+      "DiscountPct": 58.79
+    },
+    {
+      "Name": "Crompton Greaves Ameo Mixer Grinder - 750 W",
+      "Brand": "Crompton Greaves",
+      "Category": "Appliances",
+      "Price": 4800.0,
+      "DiscountedPrice": 3499.0,
+      "DiscountPct": 27.1
+    },
+    {
+      "Name": "Figaro Olive Oil Tin",
+      "Brand": "Figaro",
+      "Category": "Grocery",
+      "Price": 4500.0,
+      "DiscountedPrice": 3225.0,
+      "DiscountPct": 28.33
+    },
+    {
+      "Name": "Wonderchef Milano Set - Red",
+      "Brand": "Wonderchef",
+      "Category": "Unknown",
+      "Price": 4200.0,
+      "DiscountedPrice": 1999.0,
+      "DiscountPct": 52.4
+    },
+    {
+      "Name": "Crompton Greaves Avancer Antidust Bakers Ceiling Fan 1200 mm",
+      "Brand": "Crompton Greaves",
+      "Category": "Appliances",
+      "Price": 4180.0,
+      "DiscountedPrice": 3599.0,
+      "DiscountPct": 13.9
+    },
+    {
+      "Name": "Bajaj Majesty ICX Pearl Induction Cooktop",
+      "Brand": "Bajaj",
+      "Category": "Appliances",
+      "Price": 4170.0,
+      "DiscountedPrice": 2849.0,
+      "DiscountPct": 31.68
+    },
+    {
+      "Name": "Leonardo Olive Pomace Oil",
+      "Brand": "Leonardo",
+      "Category": "Grocery",
+      "Price": 4099.0,
+      "DiscountedPrice": 1899.0,
+      "DiscountPct": 53.67
+    }
+  ]
+}

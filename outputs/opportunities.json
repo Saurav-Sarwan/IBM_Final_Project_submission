@@ -1,0 +1,169 @@
+{
+  "single_brand_subcategories": [
+    {
+      "SubCategory": "Butterfly",
+      "brand_count": 1
+    },
+    {
+      "SubCategory": "Computer Accessories",
+      "brand_count": 1
+    },
+    {
+      "SubCategory": "Geep",
+      "brand_count": 1
+    },
+    {
+      "SubCategory": "Grocery/Flours & Grains",
+      "brand_count": 1
+    },
+    {
+      "SubCategory": "Grocery/Masala & Spices",
+      "brand_count": 1
+    },
+    {
+      "SubCategory": "Joyo Plastics",
+      "brand_count": 1
+    },
+    {
+      "SubCategory": "Kitchen Aprons",
+      "brand_count": 1
+    },
+    {
+      "SubCategory": "Pigeon",
+      "brand_count": 1
+    },
+    {
+      "SubCategory": "Raincoat",
+      "brand_count": 1
+    },
+    {
+      "SubCategory": "Smartwatches",
+      "brand_count": 1
+    },
+    {
+      "SubCategory": "Syska",
+      "brand_count": 1
+    },
+    {
+      "SubCategory": "Wonderchef",
+      "brand_count": 1
+    },
+    {
+      "SubCategory": "Zebronics",
+      "brand_count": 1
+    }
+  ],
+  "low_discount_categories": [
+    {
+      "Category": "Baby & Kids",
+      "avg_discount_pct": 2.86
+    },
+    {
+      "Category": "Water Purifiers & Accessories",
+      "avg_discount_pct": 5.71
+    },
+    {
+      "Category": "Raincoat",
+      "avg_discount_pct": 11.87
+    },
+    {
+      "Category": "Motorbike Helmets",
+      "avg_discount_pct": 15.38
+    }
+  ],
+  "high_promo_subcategories": [
+    {
+      "SubCategory": "Geep",
+      "avg_discount_pct": 61.87
+    },
+    {
+      "SubCategory": "Smartwatches",
+      "avg_discount_pct": 58.34
+    },
+    {
+      "SubCategory": "Butterfly",
+      "avg_discount_pct": 57.47
+    },
+    {
+      "SubCategory": "Zebronics",
+      "avg_discount_pct": 56.75
+    },
+    {
+      "SubCategory": "Backpacks",
+      "avg_discount_pct": 51.73
+    },
+    {
+      "SubCategory": "Unknown",
+      "avg_discount_pct": 50.01
+    },
+    {
+      "SubCategory": "Pigeon",
+      "avg_discount_pct": 49.96
+    },
+    {
+      "SubCategory": "Wonderchef",
+      "avg_discount_pct": 49.08
+    },
+    {
+      "SubCategory": "Tissue Paper & Napkins",
+      "avg_discount_pct": 44.07
+    },
+    {
+      "SubCategory": "Appliances",
+      "avg_discount_pct": 43.9
+    }
+  ],
+  "premium_gap_subcategories": [
+    {
+      "SubCategory": "Smartwatches",
+      "avg_mrp": 5999.0,
+      "brand_count": 1
+    },
+    {
+      "SubCategory": "Wonderchef",
+      "avg_mrp": 5300.0,
+      "brand_count": 1
+    },
+    {
+      "SubCategory": "Butterfly",
+      "avg_mrp": 4248.5,
+      "brand_count": 1
+    },
+    {
+      "SubCategory": "Pigeon",
+      "avg_mrp": 3595.0,
+      "brand_count": 1
+    },
+    {
+      "SubCategory": "Motorbike Helmets",
+      "avg_mrp": 1110.75,
+      "brand_count": 2
+    },
+    {
+      "SubCategory": "Raincoat",
+      "avg_mrp": 937.36,
+      "brand_count": 1
+    },
+    {
+      "SubCategory": "Joyo Plastics",
+      "avg_mrp": 907.5,
+      "brand_count": 1
+    },
+    {
+      "SubCategory": "Zebronics",
+      "avg_mrp": 801.0,
+      "brand_count": 1
+    },
+    {
+      "SubCategory": "Syska",
+      "avg_mrp": 799.0,
+      "brand_count": 1
+    },
+    {
+      "SubCategory": "Computer Accessories",
+      "avg_mrp": 349.0,
+      "brand_count": 1
+    }
+  ],
+  "global_avg_discount_pct": 26.39
+}

@@ -1,0 +1,14 @@
+{
+  "total_products": 5187,
+  "total_brands": 821,
+  "total_categories": 30,
+  "total_subcategories": 87,
+  "avg_mrp": 344.1,
+  "median_mrp": 175.0,
+  "avg_discount_pct": 26.39,
+  "max_discount_pct": 98.0,
+  "high_discount_products": 1132,
+  "high_discount_pct_of_total": 21.8,
+  "no_brand_products": 400,
+  "zero_discount_products": 10
+}

@@ -1,0 +1,548 @@
+{
+  "top_by_products": [
+    {
+      "Brand": "Premia",
+      "product_count": 155,
+      "category_count": 3,
+      "avg_mrp": 136.08,
+      "avg_discount_pct": 22.83,
+      "max_discount_pct": 43.43,
+      "high_discount_count": 6
+    },
+    {
+      "Brand": "Faces Canada",
+      "product_count": 99,
+      "category_count": 2,
+      "avg_mrp": 362.51,
+      "avg_discount_pct": 32.52,
+      "max_discount_pct": 44.44,
+      "high_discount_count": 43
+    },
+    {
+      "Brand": "Insight",
+      "product_count": 82,
+      "category_count": 1,
+      "avg_mrp": 146.0,
+      "avg_discount_pct": 29.31,
+      "max_discount_pct": 52.92,
+      "high_discount_count": 24
+    },
+    {
+      "Brand": "Amul",
+      "product_count": 79,
+      "category_count": 3,
+      "avg_mrp": 204.23,
+      "avg_discount_pct": 8.3,
+      "max_discount_pct": 50.0,
+      "high_discount_count": 1
+    },
+    {
+      "Brand": "Lakme",
+      "product_count": 74,
+      "category_count": 2,
+      "avg_mrp": 335.95,
+      "avg_discount_pct": 30.87,
+      "max_discount_pct": 51.11,
+      "high_discount_count": 16
+    },
+    {
+      "Brand": "Satyam",
+      "product_count": 68,
+      "category_count": 2,
+      "avg_mrp": 97.37,
+      "avg_discount_pct": 8.6,
+      "max_discount_pct": 19.51,
+      "high_discount_count": 0
+    },
+    {
+      "Brand": "Gillette",
+      "product_count": 44,
+      "category_count": 1,
+      "avg_mrp": 420.11,
+      "avg_discount_pct": 10.06,
+      "max_discount_pct": 46.25,
+      "high_discount_count": 1
+    },
+    {
+      "Brand": "Britannia",
+      "product_count": 42,
+      "category_count": 2,
+      "avg_mrp": 120.36,
+      "avg_discount_pct": 23.14,
+      "max_discount_pct": 50.0,
+      "high_discount_count": 5
+    },
+    {
+      "Brand": "Lotus",
+      "product_count": 40,
+      "category_count": 3,
+      "avg_mrp": 422.52,
+      "avg_discount_pct": 30.17,
+      "max_discount_pct": 43.37,
+      "high_discount_count": 9
+    },
+    {
+      "Brand": "Gala",
+      "product_count": 39,
+      "category_count": 1,
+      "avg_mrp": 302.13,
+      "avg_discount_pct": 16.67,
+      "max_discount_pct": 50.0,
+      "high_discount_count": 2
+    },
+    {
+      "Brand": "Nivea",
+      "product_count": 39,
+      "category_count": 1,
+      "avg_mrp": 271.69,
+      "avg_discount_pct": 30.5,
+      "max_discount_pct": 50.22,
+      "high_discount_count": 5
+    },
+    {
+      "Brand": "Maybelline",
+      "product_count": 38,
+      "category_count": 1,
+      "avg_mrp": 271.95,
+      "avg_discount_pct": 22.83,
+      "max_discount_pct": 31.52,
+      "high_discount_count": 0
+    },
+    {
+      "Brand": "Godrej",
+      "product_count": 35,
+      "category_count": 4,
+      "avg_mrp": 488.26,
+      "avg_discount_pct": 24.57,
+      "max_discount_pct": 50.4,
+      "high_discount_count": 9
+    },
+    {
+      "Brand": "Colgate",
+      "product_count": 35,
+      "category_count": 1,
+      "avg_mrp": 147.09,
+      "avg_discount_pct": 21.35,
+      "max_discount_pct": 50.0,
+      "high_discount_count": 2
+    },
+    {
+      "Brand": "Zeel",
+      "product_count": 33,
+      "category_count": 1,
+      "avg_mrp": 937.36,
+      "avg_discount_pct": 11.87,
+      "max_discount_pct": 17.31,
+      "high_discount_count": 0
+    },
+    {
+      "Brand": "Everest",
+      "product_count": 32,
+      "category_count": 1,
+      "avg_mrp": 91.34,
+      "avg_discount_pct": 16.84,
+      "max_discount_pct": 22.5,
+      "high_discount_count": 0
+    },
+    {
+      "Brand": "Garnier",
+      "product_count": 29,
+      "category_count": 2,
+      "avg_mrp": 169.69,
+      "avg_discount_pct": 18.73,
+      "max_discount_pct": 36.36,
+      "high_discount_count": 0
+    },
+    {
+      "Brand": "Himalaya",
+      "product_count": 28,
+      "category_count": 1,
+      "avg_mrp": 266.07,
+      "avg_discount_pct": 26.32,
+      "max_discount_pct": 44.85,
+      "high_discount_count": 5
+    },
+    {
+      "Brand": "Cortina",
+      "product_count": 27,
+      "category_count": 1,
+      "avg_mrp": 503.04,
+      "avg_discount_pct": 29.07,
+      "max_discount_pct": 61.33,
+      "high_discount_count": 7
+    },
+    {
+      "Brand": "Mamaearth",
+      "product_count": 27,
+      "category_count": 1,
+      "avg_mrp": 381.22,
+      "avg_discount_pct": 21.01,
+      "max_discount_pct": 31.52,
+      "high_discount_count": 0
+    },
+    {
+      "Brand": "Dettol",
+      "product_count": 26,
+      "category_count": 2,
+      "avg_mrp": 222.36,
+      "avg_discount_pct": 8.44,
+      "max_discount_pct": 15.27,
+      "high_discount_count": 0
+    },
+    {
+      "Brand": "Haldiram's",
+      "product_count": 25,
+      "category_count": 1,
+      "avg_mrp": 119.32,
+      "avg_discount_pct": 18.73,
+      "max_discount_pct": 50.0,
+      "high_discount_count": 2
+    },
+    {
+      "Brand": "Parle",
+      "product_count": 25,
+      "category_count": 1,
+      "avg_mrp": 81.8,
+      "avg_discount_pct": 18.39,
+      "max_discount_pct": 50.0,
+      "high_discount_count": 2
+    },
+    {
+      "Brand": "Philips",
+      "product_count": 24,
+      "category_count": 4,
+      "avg_mrp": 1470.38,
+      "avg_discount_pct": 34.45,
+      "max_discount_pct": 65.83,
+      "high_discount_count": 9
+    },
+    {
+      "Brand": "Veeba",
+      "product_count": 24,
+      "category_count": 1,
+      "avg_mrp": 151.0,
+      "avg_discount_pct": 21.17,
+      "max_discount_pct": 37.74,
+      "high_discount_count": 0
+    },
+    {
+      "Brand": "Feather Soft",
+      "product_count": 23,
+      "category_count": 1,
+      "avg_mrp": 499.0,
+      "avg_discount_pct": 53.15,
+      "max_discount_pct": 70.14,
+      "high_discount_count": 23
+    },
+    {
+      "Brand": "Dove",
+      "product_count": 23,
+      "category_count": 1,
+      "avg_mrp": 406.39,
+      "avg_discount_pct": 19.48,
+      "max_discount_pct": 43.51,
+      "high_discount_count": 4
+    },
+    {
+      "Brand": "Scotch-Brite",
+      "product_count": 23,
+      "category_count": 1,
+      "avg_mrp": 261.61,
+      "avg_discount_pct": 16.02,
+      "max_discount_pct": 48.57,
+      "high_discount_count": 1
+    },
+    {
+      "Brand": "No Fuss",
+      "product_count": 22,
+      "category_count": 1,
+      "avg_mrp": 265.64,
+      "avg_discount_pct": 24.75,
+      "max_discount_pct": 62.13,
+      "high_discount_count": 2
+    },
+    {
+      "Brand": "Fortune",
+      "product_count": 21,
+      "category_count": 1,
+      "avg_mrp": 928.71,
+      "avg_discount_pct": 17.34,
+      "max_discount_pct": 50.0,
+      "high_discount_count": 1
+    }
+  ],
+  "top_by_discount": [
+    {
+      "Brand": "Dr.WaterR",
+      "product_count": 1,
+      "category_count": 1,
+      "avg_mrp": 1499.0,
+      "avg_discount_pct": 76.72,
+      "max_discount_pct": 76.72,
+      "high_discount_count": 1
+    },
+    {
+      "Brand": "Raymond",
+      "product_count": 8,
+      "category_count": 1,
+      "avg_mrp": 2099.0,
+      "avg_discount_pct": 66.7,
+      "max_discount_pct": 66.7,
+      "high_discount_count": 8
+    },
+    {
+      "Brand": "Dinesmart",
+      "product_count": 1,
+      "category_count": 1,
+      "avg_mrp": 1599.0,
+      "avg_discount_pct": 65.67,
+      "max_discount_pct": 65.67,
+      "high_discount_count": 1
+    },
+    {
+      "Brand": "Bertolli",
+      "product_count": 1,
+      "category_count": 1,
+      "avg_mrp": 2999.0,
+      "avg_discount_pct": 65.02,
+      "max_discount_pct": 65.02,
+      "high_discount_count": 1
+    },
+    {
+      "Brand": "Paras",
+      "product_count": 1,
+      "category_count": 1,
+      "avg_mrp": 697.0,
+      "avg_discount_pct": 64.28,
+      "max_discount_pct": 64.28,
+      "high_discount_count": 1
+    },
+    {
+      "Brand": "VIP",
+      "product_count": 4,
+      "category_count": 1,
+      "avg_mrp": 2852.5,
+      "avg_discount_pct": 64.01,
+      "max_discount_pct": 66.87,
+      "high_discount_count": 4
+    },
+    {
+      "Brand": "Killer",
+      "product_count": 2,
+      "category_count": 1,
+      "avg_mrp": 269.0,
+      "avg_discount_pct": 63.2,
+      "max_discount_pct": 63.2,
+      "high_discount_count": 2
+    },
+    {
+      "Brand": "Aristocrat",
+      "product_count": 1,
+      "category_count": 1,
+      "avg_mrp": 2150.0,
+      "avg_discount_pct": 62.84,
+      "max_discount_pct": 62.84,
+      "high_discount_count": 1
+    },
+    {
+      "Brand": "Naagin",
+      "product_count": 6,
+      "category_count": 1,
+      "avg_mrp": 145.83,
+      "avg_discount_pct": 61.96,
+      "max_discount_pct": 98.0,
+      "high_discount_count": 3
+    },
+    {
+      "Brand": "Dr. WaterR",
+      "product_count": 2,
+      "category_count": 1,
+      "avg_mrp": 299.0,
+      "avg_discount_pct": 61.88,
+      "max_discount_pct": 66.89,
+      "high_discount_count": 2
+    },
+    {
+      "Brand": "Geep",
+      "product_count": 3,
+      "category_count": 1,
+      "avg_mrp": 288.0,
+      "avg_discount_pct": 61.87,
+      "max_discount_pct": 83.61,
+      "high_discount_count": 3
+    },
+    {
+      "Brand": "Boat",
+      "product_count": 7,
+      "category_count": 1,
+      "avg_mrp": 3275.71,
+      "avg_discount_pct": 61.0,
+      "max_discount_pct": 67.91,
+      "high_discount_count": 7
+    },
+    {
+      "Brand": "Potronics",
+      "product_count": 4,
+      "category_count": 2,
+      "avg_mrp": 2324.0,
+      "avg_discount_pct": 60.83,
+      "max_discount_pct": 66.69,
+      "high_discount_count": 4
+    },
+    {
+      "Brand": "Portronics",
+      "product_count": 10,
+      "category_count": 3,
+      "avg_mrp": 2094.0,
+      "avg_discount_pct": 59.24,
+      "max_discount_pct": 73.36,
+      "high_discount_count": 9
+    },
+    {
+      "Brand": "Madhur",
+      "product_count": 1,
+      "category_count": 1,
+      "avg_mrp": 240.0,
+      "avg_discount_pct": 58.75,
+      "max_discount_pct": 58.75,
+      "high_discount_count": 1
+    },
+    {
+      "Brand": "Ambrane",
+      "product_count": 9,
+      "category_count": 2,
+      "avg_mrp": 1632.33,
+      "avg_discount_pct": 58.09,
+      "max_discount_pct": 70.04,
+      "high_discount_count": 9
+    },
+    {
+      "Brand": "Trident",
+      "product_count": 18,
+      "category_count": 2,
+      "avg_mrp": 1343.44,
+      "avg_discount_pct": 56.79,
+      "max_discount_pct": 75.13,
+      "high_discount_count": 18
+    },
+    {
+      "Brand": "Sanjeev",
+      "product_count": 8,
+      "category_count": 1,
+      "avg_mrp": 746.25,
+      "avg_discount_pct": 56.14,
+      "max_discount_pct": 61.4,
+      "high_discount_count": 8
+    },
+    {
+      "Brand": "Beezy",
+      "product_count": 3,
+      "category_count": 1,
+      "avg_mrp": 627.33,
+      "avg_discount_pct": 55.65,
+      "max_discount_pct": 60.24,
+      "high_discount_count": 3
+    },
+    {
+      "Brand": "Christopher",
+      "product_count": 2,
+      "category_count": 1,
+      "avg_mrp": 299.0,
+      "avg_discount_pct": 54.35,
+      "max_discount_pct": 58.53,
+      "high_discount_count": 2
+    },
+    {
+      "Brand": "Christopher Cocoa",
+      "product_count": 5,
+      "category_count": 2,
+      "avg_mrp": 229.0,
+      "avg_discount_pct": 54.04,
+      "max_discount_pct": 59.8,
+      "high_discount_count": 5
+    },
+    {
+      "Brand": "Joyo",
+      "product_count": 17,
+      "category_count": 2,
+      "avg_mrp": 315.29,
+      "avg_discount_pct": 53.18,
+      "max_discount_pct": 62.07,
+      "high_discount_count": 16
+    },
+    {
+      "Brand": "Feather Soft",
+      "product_count": 23,
+      "category_count": 1,
+      "avg_mrp": 499.0,
+      "avg_discount_pct": 53.15,
+      "max_discount_pct": 70.14,
+      "high_discount_count": 23
+    },
+    {
+      "Brand": "Pigeon",
+      "product_count": 13,
+      "category_count": 4,
+      "avg_mrp": 1700.23,
+      "avg_discount_pct": 52.43,
+      "max_discount_pct": 72.25,
+      "high_discount_count": 12
+    },
+    {
+      "Brand": "Earthmate",
+      "product_count": 2,
+      "category_count": 1,
+      "avg_mrp": 250.0,
+      "avg_discount_pct": 52.4,
+      "max_discount_pct": 52.4,
+      "high_discount_count": 2
+    },
+    {
+      "Brand": "ProV",
+      "product_count": 3,
+      "category_count": 1,
+      "avg_mrp": 982.33,
+      "avg_discount_pct": 51.88,
+      "max_discount_pct": 55.52,
+      "high_discount_count": 3
+    },
+    {
+      "Brand": "Pickwick",
+      "product_count": 3,
+      "category_count": 1,
+      "avg_mrp": 60.0,
+      "avg_discount_pct": 51.67,
+      "max_discount_pct": 55.0,
+      "high_discount_count": 3
+    },
+    {
+      "Brand": "Shree Ram Bikaneri",
+      "product_count": 1,
+      "category_count": 1,
+      "avg_mrp": 340.0,
+      "avg_discount_pct": 51.47,
+      "max_discount_pct": 51.47,
+      "high_discount_count": 1
+    },
+    {
+      "Brand": "Tastilo",
+      "product_count": 6,
+      "category_count": 1,
+      "avg_mrp": 56.67,
+      "avg_discount_pct": 51.25,
+      "max_discount_pct": 57.5,
+      "high_discount_count": 6
+    },
+    {
+      "Brand": "Butterfly",
+      "product_count": 3,
+      "category_count": 2,
+      "avg_mrp": 3975.33,
+      "avg_discount_pct": 51.24,
+      "max_discount_pct": 58.79,
+      "high_discount_count": 2
+    }
+  ],
+  "total_branded_products": 4787,
+  "single_product_brands": 225
+}
