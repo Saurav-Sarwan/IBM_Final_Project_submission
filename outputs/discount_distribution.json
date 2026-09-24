@@ -1,38 +1,38 @@
 [
   {
-    "bucket": "0–5%",
+    "bucket": "0-5%",
     "count": 24
   },
   {
-    "bucket": "5–10%",
+    "bucket": "5-10%",
     "count": 692
   },
   {
-    "bucket": "10–20%",
+    "bucket": "10-20%",
     "count": 1489
   },
   {
-    "bucket": "20–30%",
+    "bucket": "20-30%",
     "count": 1225
   },
   {
-    "bucket": "30–40%",
+    "bucket": "30-40%",
     "count": 640
   },
   {
-    "bucket": "40–50%",
+    "bucket": "40-50%",
     "count": 625
   },
   {
-    "bucket": "50–60%",
+    "bucket": "50-60%",
     "count": 391
   },
   {
-    "bucket": "60–75%",
+    "bucket": "60-75%",
     "count": 91
   },
   {
-    "bucket": "75–100%",
+    "bucket": "75-100%",
     "count": 10
   }
 ]

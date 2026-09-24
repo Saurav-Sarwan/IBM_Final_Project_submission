@@ -249,70 +249,60 @@
       "Name": "Amul Taaza Toned Milk",
       "Brand": "Amul",
       "Category": "Dairy & Beverages",
-      "SubCategory": "Dairy",
       "Price": 15.0
     },
     {
       "Name": "Amul Masti Spiced Buttermilk",
       "Brand": "Amul",
       "Category": "Dairy & Beverages",
-      "SubCategory": "Dairy",
       "Price": 50.0
     },
     {
       "Name": "Yakult Probiotic Health Drink",
       "Brand": "Yakult",
       "Category": "Dairy & Beverages",
-      "SubCategory": "Dairy",
       "Price": 80.0
     },
     {
       "Name": "Amul Rose Lassi",
       "Brand": "Amul",
       "Category": "Dairy & Beverages",
-      "SubCategory": "Dairy",
       "Price": 20.0
     },
     {
       "Name": "Amul Lassi Rose Flavour",
       "Brand": "Amul",
       "Category": "Dairy & Beverages",
-      "SubCategory": "Dairy",
       "Price": 70.0
     },
     {
       "Name": "Yakult Light Health Drink",
       "Brand": "Yakult",
       "Category": "Dairy & Beverages",
-      "SubCategory": "Beverages",
       "Price": 95.0
     },
     {
       "Name": "Parle-G Original Gluco Biscuits",
       "Brand": "Parle",
       "Category": "Packaged Food",
-      "SubCategory": "Biscuits & Cookies",
       "Price": 5.0
     },
     {
       "Name": "Nestle Ceregrow Milk & Fruits",
       "Brand": "Nestle",
       "Category": "Baby & Kids",
-      "SubCategory": "Baby & Kids",
       "Price": 303.0
     },
     {
       "Name": "Nestle Cerelac Multigrain Dal Veg",
       "Brand": "Nestle",
       "Category": "Baby & Kids",
-      "SubCategory": "Baby & Kids",
       "Price": 298.0
     },
     {
       "Name": "Nestle Cerelac Wheat Apple Cherry",
       "Brand": "Nestle",
       "Category": "Baby & Kids",
-      "SubCategory": "Baby & Kids",
       "Price": 263.0
     }
   ],
@@ -908,5 +898,5 @@
   ],
   "extreme_discount_count": 27,
   "zero_discount_count": 10,
-  "no_brand_count": 30
+  "no_brand_count": 400
 }
